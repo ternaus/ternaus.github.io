@@ -30,7 +30,7 @@ twitter_username: viglovikov
 github_username:  ternaus
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
