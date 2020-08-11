@@ -23,6 +23,14 @@ email: iglovikov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Free format blog of Vladimir Iglovikov
 
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus:
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-83593675-1
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ternaus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: viglovikov
