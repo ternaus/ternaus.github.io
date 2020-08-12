@@ -26,7 +26,7 @@ Here is the list of Deep Learning challenges in which I (or my team) was fortuna
 * 7th place: [Kaggle: Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
 * 1st place: [MICCAI 2017: Gastrointestinal Image ANAlysis (GIANA)](http://endovissub2017-giana.grand-challenge.org/)
 * 1st place: [Kaggle: Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge)
-* 9th place: [Kaggle: IEEE’s Signal Processing Society — Camera Model Identification]
+* 9th place: [Kaggle: IEEE’s Signal Processing Society — Camera Model Identification](https://www.kaggle.com/c/sp-society-camera-model-identification)
 * 2nd place: CVPR 2018 Deepglobe. Road Extraction.
 * 2nd place: CVPR 2018 Deepglobe. Building Detection.
 * 3rd place: CVPR 2018 Deepglobe. Land Cover Classification.
