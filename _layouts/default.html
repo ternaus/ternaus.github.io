@@ -1,21 +1,23 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html en lang="{{ page.lang | default: site.lang | default: "" }}">
 
-  {%- include head.html -%}
+<link href="/feed.xml" rel="alternate" title="{{ site.title }}" type="application/atom+xml">
 
-  <body>
+{%- include head.html -%}
 
-    {%- include header.html -%}
+<body>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+{%- include header.html -%}
+
+<main aria-label="Content" class="page-content">
+    <div class="wrapper">
         {{ content }}
-      </div>
-    </main>
+    </div>
+</main>
 
-    {%- include footer.html -%}
+{%- include footer.html -%}
 
-  {% include google-analytics.html %}
-  </body>
+{% include google-analytics.html %}
+</body>
 
 </html>
