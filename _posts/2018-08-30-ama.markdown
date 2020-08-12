@@ -49,7 +49,7 @@ I guess this question may be somehow related to working out, so let me throw som
 * Maximum deadlift **405** lb
 
 **Q: How can you have a career and do kaggle full time?**
-![https://miro.medium.com/max/1750/1*90Hi3O2rAoqa_pZf3JjUCA.png](https://miro.medium.com/max/1750/1*90Hi3O2rAoqa_pZf3JjUCA.png)
+![](https://miro.medium.com/max/1750/1*90Hi3O2rAoqa_pZf3JjUCA.png)
 
 Working on Kaggle competitions is a second unpaid full-time job. You should have a pretty good reason to do this. It is common for active Kaggle participants to be seeking a change of field. I was not an exception. I started working on competitions when I was transitioning from academia to industry. I needed an efficient way to get used to problems that ML may solve, master the tools, and expand my way of thinking to the new world of machine learning.
 
@@ -166,7 +166,7 @@ I do not use the cloud in competitions. But I have two relatively powerful compu
 
 After a few iterations, I ended with the following dev box with four GPUs for heavy lifting and a desktop with two GPUs for prototyping.
 
-![https://miro.medium.com/max/1750/1*uqBHANIj3-gyUR-3rxVxqQ.jpeg](https://miro.medium.com/max/1750/1*uqBHANIj3-gyUR-3rxVxqQ.jpeg)
+![](https://miro.medium.com/max/1750/1*uqBHANIj3-gyUR-3rxVxqQ.jpeg)
 
 At the same time having a powerful machine is not enough. You need to be able to write code that can take advantage of it.
 
@@ -176,7 +176,7 @@ At the same time having a powerful machine is not enough. You need to be able to
 
 etc.
 
-![https://miro.medium.com/max/1153/1*W3O7lnU96aXv1NkYa_81TA.png](https://miro.medium.com/max/1153/1*W3O7lnU96aXv1NkYa_81TA.png)
+![](https://miro.medium.com/max/1153/1*W3O7lnU96aXv1NkYa_81TA.png)
 
 **Q: Is there any advice he can make on where to start with Kaggle to freshly starting data scientist aspirants? Best advice for a competition noob joining their first competition?**
 
@@ -230,7 +230,7 @@ The better approach that works well for me as well as for the other participants
 6. At this moment you look at the leaderboard around you and communicate with active participants that have similar standing.
 7. First of all, the pure average of your predictions will give you a small, but an important boost. Second, most likely your approaches were a bit different, and just sharing a list of ideas that were or were not tried is beneficial. Third, because the competition was initially attempted separately for each person, all of you looked through the data, all of you wrote your pipelines, all of you prioritized this competition over other activities, and all of you were motivated by the gamification effects that a real-time leaderboard creates.
 
-![https://miro.medium.com/max/1500/1*QMFrTN0FXrqqPAg2VVkcPg.png](https://miro.medium.com/max/1500/1*QMFrTN0FXrqqPAg2VVkcPg.png)
+![](https://miro.medium.com/max/1500/1*QMFrTN0FXrqqPAg2VVkcPg.png)
 
 But more importantly, people tend to overestimate the amount of the free time that they are willing to spend on the challenge and underestimate the number of issues that they will face before they will have a stable end2end pipeline. Creating teams through the leaderboard serves as a filter, ensuring that your potential teammates are on the same page as you are.
 
