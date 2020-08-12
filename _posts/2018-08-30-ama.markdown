@@ -3,7 +3,7 @@ layout: post
 title:  "Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov"
 categories: interview
 ---
-![https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg](https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg)
+![](https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg)
 
 This article was originally posted at [Medium](https://towardsdatascience.com/ask-me-anything-session-with-a-kaggle-grandmaster-vladimir-i-iglovikov-942ad6a06acd).
 
