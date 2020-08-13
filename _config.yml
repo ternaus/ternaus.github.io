@@ -28,15 +28,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 repository: "ternaus/ternaus.github.io"
 
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      read_time: true # Read time added to posts
-      words_per_minute: 250
-
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: ternausX
@@ -60,14 +51,21 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+disable_disk_cache: True
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      words_per_minute: 250
+      comments: true
+      share: true
+      related: true
+
 exclude:
    - .sass-cache/
    - .jekyll-cache/
