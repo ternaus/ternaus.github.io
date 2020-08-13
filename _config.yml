@@ -66,6 +66,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      author_profile: true
 
 comments:
   provider: "utterances"
@@ -87,22 +88,22 @@ analytics:
 author:
   name     : "Vladimir Iglovikov"
   avatar   : "/assets/images/candidate.jpg"
-  bio      : "PhD in Physics. Kaggle Grandmaster. Veteran of Russian Airborne Forces."
-  location : "San Francisco, USA"
+  bio      : "PhD in Physics. Veteran of Russian Airborne Forces. Kaggle Grandmaster."
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-twitter-square"
       url: "https://twitter.com/viglovikov"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/iglovikov/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ternaus"
     - label: "Kaggle"
       icon: "fab fa-kaggle"
       url: "https://www.kaggle.com/iglovikov"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/ternaus"
 
+paginate: 10
 
 exclude:
    - .sass-cache/
