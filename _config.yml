@@ -19,9 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Ternaus Blog
-email:
+
+name: Vladimir Iglovikov
+
 description: >- # this means to ignore newlines until "baseurl:"
   Free format blog of Vladimir Iglovikov
+
+repository: "ternaus/ternaus.github.io"
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true # Read time added to posts
+      words_per_minute: 250
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -32,16 +46,19 @@ google_analytics: UA-83593675-1
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "ternaus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "ternaus.blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: viglovikov
 github_username:  ternaus
 linkedin_username: iglovikov
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.20.1"
+#minimal_mistakes_skin: "air"
+#theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,14 +68,15 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - node_modules/
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - .idea/
