@@ -84,6 +84,26 @@ analytics:
     tracking_id: "UA-8359367-1"
     anonymize_ip: false # default
 
+author:
+  name     : "Vladimir Iglovikov"
+  avatar   : "/assets/images/candidate.jpg"
+  bio      : "PhD in Physics. Kaggle Grandmaster. Veteran of Russian Airborne Forces."
+  location : "San Francisco, USA"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/viglovikov"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/iglovikov/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ternaus"
+    - label: "Kaggle"
+      icon: "fab fa-kaggle"
+      url: "https://www.kaggle.com/iglovikov"
+
+
 exclude:
    - .sass-cache/
    - .jekyll-cache/
