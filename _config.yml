@@ -65,6 +65,24 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+
+search: true
+
+google:
+  search_engine_id: 012651648844144704873:_8__ljh324a
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-8359367-1"
+    anonymize_ip: false # default
 
 exclude:
    - .sass-cache/
