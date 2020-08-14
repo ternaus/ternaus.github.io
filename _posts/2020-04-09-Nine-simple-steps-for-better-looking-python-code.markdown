@@ -3,6 +3,8 @@ layout: single
 title:  "Nine simple steps for better-looking python code"
 categories: tutorial
 
+tags: python software_engineering
+
 header:
     image: https://miro.medium.com/max/1750/1*pVTPFHcasXqnlKlH0--YJg.jpeg
     caption: https://pixabay.com/photos/work-workaholic-writer-programmer-1627703/, via https://pixabay.com/photos/work-workaholic-writer-programmer-1627703. (Pixabay Licence)

@@ -1,7 +1,9 @@
 ---
 layout: single
 title:  "Shifting Careers to Autonomous Vehicles"
-categories: tutorial
+categories: career
+
+tag: coolstory
 
 header:
     image: https://miro.medium.com/max/1750/1*_mUt257egvgT7zOL_YR2aQ.png
