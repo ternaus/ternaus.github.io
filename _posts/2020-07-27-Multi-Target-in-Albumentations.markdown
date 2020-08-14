@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Multi-target in Albumentations"
-excerpt: "Many images, many masks, bounding boxes, and key points. How to transform them in sync?."
+excerpt: "Many images, many masks, bounding boxes, and key points. How to transform them in sync?"
 categories: machine_learning
 tags: albumentations tutorial
 
