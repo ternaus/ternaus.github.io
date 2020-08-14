@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 repository: "ternaus/ternaus.github.io"
 
+yandex_site_verification: "45b0fcdd4b98ee41"
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
