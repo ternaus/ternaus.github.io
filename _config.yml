@@ -140,6 +140,12 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
+
+
 paginate: 10
 
 exclude:
