@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Face recognition on 330 million faces at 400 images per second"
-subtitle: "Face detection, face recognition on 330 million faces at OK.Ru."
+title:  "Face recognition on 330 million faces at 400 images per second"
+subtitle: "Face detection, face recognition on 330 million faces at OK.Ru."
 categories: machine_learning
 tags: translation face_detection face_recognition
 
