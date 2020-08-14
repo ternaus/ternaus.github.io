@@ -7,6 +7,7 @@ tag: coolstory
 
 header:
     image: https://miro.medium.com/max/1750/1*_mUt257egvgT7zOL_YR2aQ.png
+    teaser: https://miro.medium.com/max/1750/1*_mUt257egvgT7zOL_YR2aQ.png
 ---
 
 This article was originally posted at [Medium](https://towardsdatascience.com/how-i-found-my-current-job-3fb22e511a1f).

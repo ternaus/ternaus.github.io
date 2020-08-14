@@ -5,6 +5,7 @@ categories: career
 
 header:
     image: https://miro.medium.com/max/1800/1*qcl1VLaiSSQ4mvqrso_XaQ.jpeg
+    teaser: https://miro.medium.com/max/1800/1*qcl1VLaiSSQ4mvqrso_XaQ.jpeg
     caption: http://basementrejects.com/review/ducktales-season-2/
 ---
 {% include toc title="Table of Contents" %}

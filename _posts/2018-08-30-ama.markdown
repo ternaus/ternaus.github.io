@@ -5,6 +5,7 @@ categories: interview
 
 header:
  image: https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg
+ teaser: https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg
 ---
 {% include toc title="Table of Contents" %}
 

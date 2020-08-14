@@ -8,6 +8,8 @@ tags: translation face_detection face_recognition
 header:
     image: https://cdn-images-1.medium.com/max/2400/1*4hgXBFm1oR4Dx99kwEYbig.png
     caption: https://habr.com/ru/company/odnoklassniki/blog/350566/
+    teaser: https://cdn-images-1.medium.com/max/2400/1*4hgXBFm1oR4Dx99kwEYbig.png
+
 ---
 {% include toc title="Table of Contents" %}
 
