@@ -9,6 +9,7 @@ header:
     image: https://miro.medium.com/max/1750/1*lHMua9ruClZwHR8O0fyO7A.jpeg
     caption: Image source - https://www.newsbreak.com/news/1480496874024/elon-musk-revealed-his-favorite-film-of-2019-was-parasite
 ---
+{% include toc title="Table of Contents" %}
 
 This article was originally posted at [Medium](https://towardsdatascience.com/multi-target-in-albumentations-16a777e9006e).
 
@@ -35,7 +36,7 @@ Possible use cases:
 * Instance segmentation.
 * Panoptic segmentation.
 
-### A few buzzwords :)
+## A few buzzwords
 * The library emerged from the winning solutions in machine learning competitions. The core team includes one [Kaggle Grandmaster](https://www.kaggle.com/progression#grandmaster), three [Kaggle Masters](https://www.kaggle.com/progression#master), and one [Kaggle Expert](https://www.kaggle.com/progression#expert).
 * [Selim Seferbekov](https://www.kaggle.com/selimsef), the winner of the $1,000,000 [Deepfake Challenge](https://www.kaggle.com/c/deepfake-detection-challenge), used albumentations in his solution.
 * The library is part of the [PyTorch ecosystem](https://pytorch.org/ecosystem/) and the Nvidia Inception program.
@@ -97,21 +98,22 @@ Let’s apply the sequence of [HorizontalFlip](https://albumentations.ai/docs/ap
 
 ![](https://miro.medium.com/max/1750/1*-TeOkE5Lq0rHcq3dq3YgBQ.jpeg)
 
-**Q**: Can we work with more than two images?
+## FAQ
 
-**A**: You can use as many as you want.
+### Q: Can we work with more than two images?
+A: You can use as many as you want.
 
-**Q**: Should the number of image, mask, bounding box, and keypoint targets be the same?
+### Q: Should the number of image, mask, bounding box, and keypoint targets be the same?
 
-**A**: You can have N images, M masks, K key points, and B bounding boxes. N, M, K, and B could be different.
+A: You can have N images, M masks, K key points, and B bounding boxes. N, M, K, and B could be different.
 
-**Q**: Are there situations where multi-target will break?
+### Q: Are there situations where multi-target will break?
 
-**A**: In general, you can use the multi-target functionality to a set of images of different sizes. Some transform depends on the inputs. For example, you cannot perform a crop that is larger than the image. Another example is MaskDropout that depends on the input mask may. How will it behave when we have a set of masks is unclear. We will test these corner cases. But they are pretty rare in practice.
+A: In general, you can use the multi-target functionality to a set of images of different sizes. Some transform depends on the inputs. For example, you cannot perform a crop that is larger than the image. Another example is MaskDropout that depends on the input mask may. How will it behave when we have a set of masks is unclear. We will test these corner cases. But they are pretty rare in practice.
 
-**Q**: How many transforms could be combined together?
+### Q: How many transforms could be combined together?
 
-**A**: You can combine the transforms into a complex pipeline in a number of ways.
+A: You can combine the transforms into a complex pipeline in a number of ways.
 
 We have more than [30 spatial transforms](https://albumentations.ai/docs/getting_started/transforms_and_targets/#spatial-level-transforms). All of them support images and masks, most of them support bounding boxes and key points.
 
@@ -130,7 +132,7 @@ That could be combined with [40+ transforms](https://albumentations.ai/docs/gett
 * [Simultaneous augmentation of multiple targets: masks, bounding boxes, keypoints](https://albumentations.ai/docs/getting_started/simultaneous_augmentation/#simultaneous-augmentation-of-multiple-targets-masks-bounding-boxes-keypoints)
 * [Setting probabilities for transforms in an augmentation pipeline](Setting probabilities for transforms in an augmentation pipeline)
 
-# Conclusion
+## Conclusion
 
 Working on the open-source project is challenging, but very exciting. I would like to thank the core team:
 * [Alexander Buslaev](https://www.linkedin.com/in/al-buslaev/)

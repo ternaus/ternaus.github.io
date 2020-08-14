@@ -9,6 +9,7 @@ header:
     image: https://cdn-images-1.medium.com/max/2400/1*4hgXBFm1oR4Dx99kwEYbig.png
     caption: https://habr.com/ru/company/odnoklassniki/blog/350566/
 ---
+{% include toc title="Table of Contents" %}
 
 This article was originally posted at [Medium](https://towardsdatascience.com/face-recognition-on-330-million-images-at-400-images-per-second-b85e594eab66).
 
@@ -75,9 +76,9 @@ If the user has a lot of high-quality photos we used the best 100. To estimate t
 #### Step 2: Look for faces at the image.
 If there are other people in the image, it is not a big deal.
 
-####Step 3: Calculate the embedding vector for every face.
+#### Step 3: Calculate the embedding vector for every face.
 
-####Step 4: Perform the clustering of the embedding vectors.
+#### Step 4: Perform the clustering of the embedding vectors.
 
 The goal of the clustering is to figure out which set of the embedding corresponds to the user. There are friends and relatives in the photos. We use DBScan for clustering.
 
@@ -96,7 +97,7 @@ The correct calculation of age and gender is a separate task that we will cover 
 
 To call the cluster a “leader,” we need his weight to be larger than the closest cluster’s weight by a margin. We compute this margin on the train set. If we did not find the “leader,” we repeat the procedure but use a broader collection of images. There are users for which we had two clusters. Some families have a joined profile.
 
-####Step 6: Calculate the “main” embedding of the user.
+#### Step 6: Calculate the “main” embedding of the user.
 
 The main embedding of the user is the centroid of the leading cluster. There are many ways that could be used to build a centroid. After extensive experimentation, we decided to use the simplest: an average of all embedding in the cluster.
 
@@ -137,7 +138,7 @@ There were a few more optimizations. For example, we replaced [Non Maximum Suppr
 
 We need to admit that there is a lot of progress in the field, and there are works like [FaceBoxes](https://arxiv.org/abs/1708.05234). It can happen that we will update our face detection solution in the future.
 
-##Face identification (embedding extraction)
+## Face identification (embedding extraction)
 
 We experimented with the Wide ResNet, Inception-ResNet, Light CNN network architectures. Inception-Resnet was slightly better, and at the moment, it was our choice.
 

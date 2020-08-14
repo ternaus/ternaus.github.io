@@ -3,14 +3,12 @@ layout: single
 title:  "Ask Me Anything session with a Kaggle Grandmaster Vladimir I. Iglovikov"
 categories: interview
 
-toc: true
-
 header:
  image: https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg
 ---
+{% include toc title="Table of Contents" %}
 
 This article was originally posted at [Medium](https://towardsdatascience.com/ask-me-anything-session-with-a-kaggle-grandmaster-vladimir-i-iglovikov-942ad6a06acd).
-
 
 ---
 
@@ -36,14 +34,14 @@ Here is the list of Deep Learning challenges in which I (or my team) was fortuna
 * 3rd place: CVPR 2018 Deepglobe. Land Cover Classification.
 * 3rd place: MICCAI 2018: Gastrointestinal Image ANAlysis (GIANA)
 
-**Q: Do you have a life outside of data?**
+## Q: Do you have a life outside of data?
 
 Yes, I do :)
 I like backpacking and rock climbing. If you are climbing in the [Mission Cliffs climbing gym](https://touchstoneclimbing.com/mission-cliffs/) in the mornings, you can say hi, next time you see me.
 I also love partner dancing, Blues Fusion, in particular. [Mission Fusion](http://www.missionfusion.com/) in San Francisco and [South Bay Fusion](http://southbayfusion.com/) dance venues is where I typically go.
 Travel is also important to me. This spring I was in Belarus, Morocco, and Jordan. In September I spent three weeks in Finland, Germany, and Austria. And of course, Burning Man 2018 was the best experience of the year :)
 
-**Q: Height/weight?**
+## Q: Height/weight?
 
 6 feet, 185 lbs
 I guess this question may be somehow related to working out, so let me throw some of my results in powerlifting from the times when I was in a grad school :)
@@ -52,7 +50,7 @@ I guess this question may be somehow related to working out, so let me throw som
 * Maximum squat **315** lb
 * Maximum deadlift **405** lb
 
-**Q: How can you have a career and do kaggle full time?**
+## Q: How can you have a career and do kaggle full time?
 ![](https://miro.medium.com/max/1750/1*90Hi3O2rAoqa_pZf3JjUCA.png)
 
 Working on Kaggle competitions is a second unpaid full-time job. You should have a pretty good reason to do this. It is common for active Kaggle participants to be seeking a change of field. I was not an exception. I started working on competitions when I was transitioning from academia to industry. I needed an efficient way to get used to problems that ML may solve, master the tools, and expand my way of thinking to the new world of machine learning.
@@ -66,7 +64,7 @@ All this effort paid off when I was able to get a job in [Level5 at Lyft](https:
 
 Finally, I am not working on Kaggle full time. But I am still actively learning. There are plenty of exciting computer vision problems at work and I am trying to get more knowledge in the areas that Kaggle does not cover. I still make submissions to various competitions from time to time, but this is mainly to have a better understanding of the problem and challenges that participants are facing, which in turn helps to get the most from the information that is shared at the forum.
 
-**Q: What’re your day-to-day routines which help you be productive? How do you structure your day?**
+## Q: What’re your day-to-day routines which help you be productive? How do you structure your day?**
 
 There are always more problems that one needs to solve and activities that one wants to do. Not all of them are equally useful and enjoyable. This means that I always need to put priorities on every action. There are a couple of books that have excellent discussions on the topic. I would recommend everyone who is thinking about becoming more productive to read them:
 
@@ -91,7 +89,7 @@ I suppose I cannot finish this question without providing specific tricks :)
 
 All these ideas are pretty standard, but I can not remember any magic trick in my pocket.
 
-**Q: How do you keep up with current research in the field?**
+## Q: How do you keep up with current research in the field?
 
 I would not say that I do. The ML area is so dynamic these days, the number of papers, competitions, blog posts, and books is so huge that even skimming through them is impossible. In practice, when I am facing some problem, I focus on looking through the recent results and dig deep into it. After I am done with this problem, I switch to the next one. As a result, I only have high-level knowledge of areas that I do not have hands-on experience in, and I am ok with it. At the same time, the list of the problems that I have worked on, and consequently have deep expertise in, is relatively large and this list continues to grow. This fact reassures me that combinations of the experience and code that I have already written and keep in private repositories will help me to have a quick start in any new ML related task.
 
@@ -99,9 +97,8 @@ And, besides, it means that for many problems I have pretty strong pipelines tha
 
 I also attend conferences like NIPS, CVPR, and others. Results presented there serve as a good proxy of what we can and what we cannot in terms at the current stage of research.
 
-**Q: Back in times(like 4–5 years ago) having a Ph.D. in the non-ML specific field(Physics, MechEng, etc.) was very beneficial for the employers. Currently, I feel like the situation changed, and if one compares PhDs from the non-ML field vs. MSc from ML, it looks like the IT/ML industry will prefer the latter one for ML engineering/developers role, but I am not sure about research roles. Since you also have a Ph.D. in Physics and then transferred to ML, I think you might know the answer to the question from your current experience.**
-
-**What is your opinion about having a non-ML Ph.D. now, if one wants to transfer to the ML industry afterward? Will it help to get a research position in a company? Will it help at all to find a job in the ML industry in comparison to relevant MSc?**
+## Q: Back in times(like 4–5 years ago) having a Ph.D. in the non-ML specific field(Physics, MechEng, etc.) was very beneficial for the employers. Currently, I feel like the situation changed, and if one compares PhDs from the non-ML field vs. MSc from ML, it looks like the IT/ML industry will prefer the latter one for ML engineering/developers role, but I am not sure about research roles. Since you also have a Ph.D. in Physics and then transferred to ML, I think you might know the answer to the question from your current experience.
+What is your opinion about having a non-ML Ph.D. now, if one wants to transfer to the ML industry afterward? Will it help to get a research position in a company? Will it help at all to find a job in the ML industry in comparison to relevant MSc?**
 
 This is a hard question, I do not know the answer, so I will just think aloud.
 
@@ -135,13 +132,13 @@ In general, it would be unwise to overestimate the influence of your major, univ
 
 I may sound naive, but one should pick major, not because he/she believes that it will lead to a good salary, but because you are passionate about it.
 
-**Q: Where would you say the interesting problems in Data science/ML currently lie? I am around 50% complete with my Masters and am not sure where in the ML pipeline I want to work. I spoke with someone who asserted the two best areas are in Algo creation and scaling (as opposed to DS/ML applications which may be more library plug and chug). What are your thoughts on this? / any recommendation in terms of career flexibility.**
+## Q: Where would you say the interesting problems in Data science/ML currently lie? I am around 50% complete with my Masters and am not sure where in the ML pipeline I want to work. I spoke with someone who asserted the two best areas are in Algo creation and scaling (as opposed to DS/ML applications which may be more library plug and chug). What are your thoughts on this? / any recommendation in terms of career flexibility.
 
 I would say that interesting problems in DS/ML lie far from what is mainstream today. Mainstream problems are crowded. Applying ML to credit scoring, recommender systems, retail, and other disciplines where we figured out how to map data into money is boring. But if you apply DS/ML to unsolved problems in math, physics, biology, chemistry, history, archeology, geology, or any other field where people did not try to apply ML that much, you may find your next [Purple Cow](https://amzn.to/2NYaHCy).
 
 Regarding career choices. Unlike biology or physics, skills that you learn in DS/ML is much easier to transfer from field to field. For sure, developing algorithms for trading in some bank or hedge fund is not the same as working on self-driving cars, but the difference is not that big, and you will be able to pick up necessary skills pretty fast as long as you are good in the fundamentals.
 
-**Q: Is 30 years age a too late frontier to join the ML community with the background, not in Math/CS? Or it’s possible to catch the last train? If yes, what are the minimal requirements for that in your opinion?**
+## Q: Is 30 years age a too late frontier to join the ML community with the background, not in Math/CS? Or it’s possible to catch the last train? If yes, what are the minimal requirements for that in your opinion?
 
 Of course, it is not too late. 90% of ML requires math knowledge at the level of the freshman year in a technical university, so no ultradeep math knowledge is needed. And the most widely used languages in DS are a python and R, which are high level, so you can start using them without dying in technical details.
 
@@ -152,7 +149,7 @@ Two more examples related to age:
 * Kaggle Grandmaster [Evgeny Patekha](https://www.kaggle.com/johnpateha) started his journey to Data Science at the age of forty.
 * Kaggle Grandmaster [Alexander Larko](https://www.kaggle.com/alexxanderlarko) joined Kaggle at the age of fifty-five.
 
-**Q: Do you consider formal fundamental education in the technical field essential to success in Data Science and Kaggle competitions? Do you have any contrary examples in your experience at work?**
+## Q: Do you consider formal fundamental education in the technical field essential to success in Data Science and Kaggle competitions? Do you have any contrary examples in your experience at work?
 
 Helpful yes. Essential no. There are plenty of people at Kaggle with great results that do not have fundamental education in the technical field. The stereotypical example is [Mikel Bober-Irizar](https://www.kaggle.com/anokas), who is Kaggle Grandmaster, but who still studies in a high school.
 
@@ -160,11 +157,11 @@ Another thing is that you need to remember that skills that you learn at Kaggle 
 
 But again. You can be good at Kaggle without a high school diploma.
 
-**Q: How long did you learn Data Science/ML to get to a level where you were competitive in Kaggle?**
+## Q: How long did you learn Data Science/ML to get to a level where you were competitive in Kaggle?
 
 I decided to switch to data science in January 2015. After this, I started taking online classes at Coursera. At the end of February, I learned about Kaggle and registered there. In two months I got my first silver medal.
 
-**Q: Can one achieve high kaggle results with a simple home computer and without a cloud?**
+## Q: Can one achieve high kaggle results with a simple home computer and without a cloud?
 
 I do not use the cloud in competitions. But I have two relatively powerful computers at home. One with four GPUs, another with two. You can get good results at kaggle without a very powerful machine, but lack of the computing power will limit you regarding how many ideas you can check per unit of time. And the number of these ideas that you check is strongly correlated with your result. So, if you are training models 24/7, you should probably invest in a good desktop.
 
@@ -182,7 +179,7 @@ etc.
 
 ![](https://miro.medium.com/max/1153/1*W3O7lnU96aXv1NkYa_81TA.png)
 
-**Q: Is there any advice he can make on where to start with Kaggle to freshly starting data scientist aspirants? Best advice for a competition noob joining their first competition?**
+## Q: Is there any advice he can make on where to start with Kaggle to freshly starting data scientist aspirants? Best advice for a competition noob joining their first competition?
 
 There are many ways to get into Kaggle, but based on what I observed one of the most efficient ways to get the required knowledge is to use the hacker’s approach.
 
@@ -194,29 +191,29 @@ There are many ways to get into Kaggle, but based on what I observed one of the 
 6. After the competition is over, despite all your efforts, most likely, you will see yourself pretty low at the leaderboard. This is expected. Read carefully through the forum, read solutions that winners shared, try to understand what could you do better. Next time when you will see a similar problem, your starting point will be much higher.
 7. Repeat the process on many competitions, and you will get to the top. What is more important is that you will have good pipelines for many problems at your disposal, and well-developed intuition on how to deal with machine learning challenges that you face at competitions, at work, or in academia.
 
-**Q: As someone from a physics background, does it sometimes frustrate you when competitions are more of an overfitting exercise vs. actual generalization at a specific task? Assuming so, how do you cope?**
+## Q: As someone from a physics background, does it sometimes frustrate you when competitions are more of an overfitting exercise vs. actual generalization at a specific task? Assuming so, how do you cope?
 
 Typically, you need to overfit the data and metrics to get a good result. This is fine, and this is expected. People overfit on the ImageNet dataset for so many years, and new knowledge is still generated in the process. But to do it you need to understand nuances of the metric and data. And this is where knowledge comes. As long as new knowledge is created during the time of the challenge I am fine with overfitting. As you may notice, pipelines, and ideas that were good at one problem serve as a reliable baseline on the next one, which speaks of some generalizability.
 
-**Q: What are your thoughts on the data leaks at Kaggle, for instance, Santander, Airship prediction, and Google Analytics? Is it ethical to use data leakage in Kaggle competitions?**
+## Q: What are your thoughts on the data leaks at Kaggle, for instance, Santander, Airship prediction, and Google Analytics? Is it ethical to use data leakage in Kaggle competitions?
 
 I acknowledge that organizing competition is very hard, so I do not blame organizers when the leak is discovered. I am also fine when people take advantage of the leaks. I need to admit that leaks discourage me from participating in a challenge, but it is mainly to the fact that I would not be able to generalize acquired knowledge to the other challenged that easily. I still believe that Kaggle admins need to create a checklist of possible data leaks and check the data before the challenge to prevent the same issues happening again and again, but I believe they are working on this.
 
-**Q: How useful is Kaggle competitions wrt business/working as A DL Eng.?**
+## Q: How useful is Kaggle competitions wrt business/working as A DL Eng.?
 
 It is tough to say. Kaggle boosts your skillset in a few critical but very narrow fields. It is an important skill set, and for some positions, it may be highly beneficial, while for others it will not. For all jobs that I worked, and especially now when I work on self-driving, Kaggle skills are a powerful addition to a set of skills that I got from academia and other sources of knowledge.
 But again, having Kaggle skills, even if they are solid is not enough. Many things you can learn only in the industry.
 Being a Kaggle Master is not necessary and not enough to be good at what you do at work, but at the same time, I believe that if a person is a Kaggle Master, it should be enough to pass resume filtering stages by HR and invite a person to a tech screen.
 
-**Q: How useful is taking part in Kaggle competitions after becoming Grandmaster? What is your motivation to do Kaggle when you are already an accomplished data scientist?**
+## Q: How useful is taking part in Kaggle competitions after becoming Grandmaster? What is your motivation to do Kaggle when you are already an accomplished data scientist?
 
 As I mentioned, I do not participate in Kaggle competitions that much anymore, but I started looking at competitions that are provided in conjunction with different conferences. My team had a good result at MICCAI 2017, CVPR 2018, and MICCAI 2018. Competitions typically include nice, clean data sets that require minimal data cleaning, and allows you to focus less on the data and more on the numerical techniques. This is a luxury that you typically do not have at work, where the data selection process is typically the most important component of creating a useful pipeline.
 
-**Q: What would you recommend to undergraduates and graduates from your learning and competitive experiences? What milestones must one set to attain mastery of Data Science?**
+## Q: What would you recommend to undergraduates and graduates from your learning and competitive experiences? What milestones must one set to attain mastery of Data Science?
 
 I don’t even know what mastery in data science is. There are plenty of ways to answer this question. But in this AMA I am talking as a Kaggle Grandmaster, so let’s say your first milestone should be to become [Kaggle Master](https://www.kaggle.com/progression#master). It is relatively straightforward, but while you are working on it, you will have a better vision of what you want in this domain.
 
-**Q: How far can you get on Kaggle (and in the Data Science field more broadly) without an educational background in Mathematics/Computer Science or some other highly numerate subject? How far can passion and a desire to learn instead take you?**
+## Q: How far can you get on Kaggle (and in the Data Science field more broadly) without an educational background in Mathematics/Computer Science or some other highly numerate subject? How far can passion and a desire to learn instead take you?
 
 You can get to the top of the top in Kaggle or any other data science field if you are goal-oriented and are willing to learn. The hardest step is the first step. Just do it. And the best time to do it is right now, today, because tomorrow, typically means never.
 
