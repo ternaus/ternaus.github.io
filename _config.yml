@@ -79,6 +79,9 @@ search: true
 google:
   search_engine_id: 012651648844144704873:_8__ljh324a
 
+facebook:
+  app_id:  779888532817216
+
 analytics:
   provider: "google-gtag"
   google:
