@@ -36,7 +36,6 @@ disqus: ternausX
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-83593675-1
 
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ternaus.blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: viglovikov
@@ -83,10 +82,21 @@ google:
 facebook:
   app_id:  779888532817216
 
+twitter:
+  username: "viglovikov"
+
+og_image: /assets/images/candidate.jpg
+
+social:
+  type:  Person
+  links:
+    - "https://twitter.com/viglovikov"
+    - "https://www.linkedin.com/in/iglovikov"
+
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-8359367-1"
+    tracking_id: "UA-83593675-1"
     anonymize_ip: false # default
 
 author:
