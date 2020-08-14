@@ -7,6 +7,7 @@ header:
     image: https://miro.medium.com/max/1800/1*qcl1VLaiSSQ4mvqrso_XaQ.jpeg
     caption: http://basementrejects.com/review/ducktales-season-2/
 ---
+{% include toc title="Table of Contents" %}
 
 This article was originally posted at [Medium](https://medium.com/swlh/fresh-grads-compensation-in-silicon-valley-3d694cb3ae59).
 
@@ -234,9 +235,10 @@ But there is a caveat.
 
 There is a quantity called "**Fuck you money**."
 
-> **Fuck you money** is a fancy way of saying enough money that you're completely financially independent. You can say "**fuck you**" to an employer or a business proposition, and it won't affect your living standards noticeably.
+## Fuck you money
+![image-center](https://cdn-images-1.medium.com/max/2400/1*oqQ1Jg4J1GhQQC8jTAP_yA.jpeg)
 
-![](https://cdn-images-1.medium.com/max/2400/1*oqQ1Jg4J1GhQQC8jTAP_yA.jpeg)
+> **Fuck you money** is a fancy way of saying enough money that you're completely financially independent. You can say "**fuck you**" to an employer or a business proposition, and it won't affect your living standards noticeably.
 
 *https://www.imdb.com/title/tt0493464/*
 
