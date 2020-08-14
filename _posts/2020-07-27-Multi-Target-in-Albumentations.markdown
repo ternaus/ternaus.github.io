@@ -20,7 +20,7 @@ Image augmentations is an interpretable regularization technique. You transform 
 
 ![](https://miro.medium.com/max/1750/1*Za3VLUEHu7JhiLRWO3Lv_A.jpeg)
 
-*https://albumentations.ai/docs/introduction/image_augmentation/*
+*[](https://albumentations.ai/docs/introduction/image_augmentation)*
 
 You can use the library with [PyTorch](https://www.kaggle.com/tarunpaparaju/alaska2-steganalysis-efficientnet-b3-pytorch), [Keras](https://github.com/qubvel/segmentation_models/blob/master/examples/multiclass%20segmentation%20(camvid).ipynb), [Tensorflow](https://colab.research.google.com/github/albumentations-team/albumentations_examples/blob/colab/tensorflow-example.ipynb), or any other framework that can treat an image as a numpy array.
 
@@ -85,7 +85,7 @@ Let’s apply [HorizontalFlip](https://albumentations.ai/docs/api_reference/augm
 
 ## Scenario 3: several images, masks, key points, and bounding boxes
 
-https://miro.medium.com/max/1750/1*bGTq__qLurb4schKMUzR9g.jpeg
+![](https://miro.medium.com/max/1750/1*bGTq__qLurb4schKMUzR9g.jpeg)
 
 You may apply spatial transforms to multiple targets.
 
@@ -117,7 +117,7 @@ We have more than [30 spatial transforms](https://albumentations.ai/docs/getting
 
 ![](https://miro.medium.com/max/1750/1*pvJuOaQDBUJeHBu3AIIyyA.png)
 
-*https://albumentations.ai/docs/getting_started/transforms_and_targets/#spatial-level-transforms*
+*[](https://albumentations.ai/docs/getting_started/transforms_and_targets/#spatial-level-transforms)*
 
 That could be combined with [40+ transforms](https://albumentations.ai/docs/getting_started/transforms_and_targets/#pixel-level-transforms) that modify pixel values of the image. Example: [RandomBrightnessContrast](https://albumentations.ai/docs/api_reference/augmentations/transforms/#albumentations.augmentations.transforms.RandomBrightnessContrast), [Blur](https://albumentations.ai/docs/api_reference/augmentations/transforms/#albumentations.augmentations.transforms.Blur), or something more exotic like [RandomRain](https://albumentations.ai/docs/api_reference/augmentations/transforms/#albumentations.augmentations.transforms.RandomRain).
 
