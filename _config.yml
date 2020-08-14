@@ -18,14 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ternaus Blog
+title: "Ternaus Blog"
 
-name: Vladimir Iglovikov
+name: "Vladimir Iglovikov"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Free format blog of Vladimir Iglovikov
+description: "Free format blog of Vladimir Iglovikov"
 
 repository: "ternaus/ternaus.github.io"
+
+teaser: /assets/images/teaser.jpg
+
+breadcrumbs: true  # disabled by default
 
 yandex_site_verification: "45b0fcdd4b98ee41"
 
@@ -116,6 +119,10 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/ternaus"
+    - label: "Google Scholar"
+      icon: "fas fa-user-graduate"
+      url: "https://scholar.google.com/citations?user=vkjh9X0AAAAJ&hl=en#"
+
 
 paginate: 10
 
