@@ -90,6 +90,9 @@ twitter:
 
 og_image: /assets/images/teaser.jpg
 
+atom_feed:
+  path: "http://feeds.feedburner.com/TernausBlog"
+
 social:
   type:  Person
   links:
