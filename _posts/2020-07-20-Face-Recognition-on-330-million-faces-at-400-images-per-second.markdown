@@ -116,7 +116,8 @@ The first version of the face detector OK launched in 2013. It was the solution 
 
 For the old detector, we used 100 “old” CPU servers. Nearly all modern face detection algorithms use convolutional neural networks (CNN) that perform the best on GPUs. We did not have an option to buy enough GPUs: cryptocurrency miners purchased all that was available.
 
-> The comment from the translator: The summer of 2018 was the cryptocurrency boom. GPU prices went up a few times, and even with such high rates, it was hard to buy a GPU.
+The comment from the translator: The summer of 2018 was the cryptocurrency boom. GPU prices went up a few times, and even with such high rates, it was hard to buy a GPU.
+{: .notice--info}
 
 We decided to run our new detector on the CPUs that we used for the old one.
 
@@ -154,7 +155,8 @@ Faces at our portal are quite different from faces that exist at the research da
 
 To overcome the third point, we can use image augmentation. Downsample and JpegCompression transforms will do the job.
 
-> The comment from the translator: [Albumentations library](https://albumentations.ai/) has the number of transforms that can mimic the image’s low quality.
+The comment from the translator: [Albumentations library](https://albumentations.ai/) has the number of transforms that can mimic the image’s low quality.
+{: .notice--info}
 
 After a few iterations, we converged on the following procedure:
 

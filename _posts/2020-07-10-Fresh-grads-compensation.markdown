@@ -17,7 +17,8 @@ In my previous article, I talked about how researchers can improve the readabili
 
 Today I will talk about something that may be interesting even to those who do not write the code yet. This blog post will be about money.
 
-*Note: There will be a lot of $$$ numbers in the text. All of them before taxes! Taxes will eat a considerable part of your compensation. There are some ways to minimize the impact, but I will not talk about it.*
+Note: There will be a lot of $$$ numbers in the text. All of them before taxes! Taxes will eat a considerable part of your compensation. There are some ways to minimize the impact, but I will not talk about it.
+{: .notice--info}
 
 When I was looking for my first job, I needed to answer the question: “What is the compensation I am looking for for my next role?” I did not know what to say. And I was not alone.
 

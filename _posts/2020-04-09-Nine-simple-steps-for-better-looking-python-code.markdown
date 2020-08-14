@@ -42,13 +42,13 @@ Versioning your code looks like an obvious must-have, but it is not. In graduate
 
 Code versioning and using centralized repositories at [GitHub](https://github.com/) or other services is a must-have. Many researchers are doing this, but if you step away from Computer Science, most of the professors and graduate students are in the phase of versioning with folders and sending code in the emails.
 
-**Q**: When do you need to start using git for your project?
+#### Q: When do you need to start using git for your project?
 
-**A**: From the first line of the code.
+A: From the first line of the code.
 
-**Q**: When do you need to create a repository at GitHub and push the code there?
+#### Q: When do you need to create a repository at GitHub and push the code there?
 
-**A**: From the first line of the code. If you believe that your code cannot be shared publically due to legal or other reasons, create a private repository. In all other cases, go for the public repo.
+A: From the first line of the code. If you believe that your code cannot be shared publically due to legal or other reasons, create a private repository. In all other cases, go for the public repo.
 
 It is a mistake when people wait until the code looks good before making it public. Many of my colleagues felt very insecure that there will be non-perfect code in their GitHub repository. They were concerned that people will assume that they are bad programmers. Realistically, no one will judge you. In addition, every code that you write now will look bad when you look at it in six months.
 
