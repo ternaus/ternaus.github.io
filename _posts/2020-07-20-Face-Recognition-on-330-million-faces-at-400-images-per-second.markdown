@@ -234,7 +234,7 @@ The described schema could be implemented as a two-layer network with 14 hidden 
 
 Curiously, the face id network sends all variety of the nonface images only to a few regions of the embedding space.
 
-## Everyone lies or how to find the real age and gender of the person in a social network
+## Everyone lies or how to find the real age and gender of the person in a social network
 
 Pretty often, users do not show their age or write an incorrect number. To deduce the correct value of the user, we use the graph of friends. In general, the age of the user lies in the largest cluster of his friends' ages. The gender we deduced from the first and last names.
 
@@ -264,7 +264,7 @@ Automatic recognition twofold increased the number of views in the feed with upd
 
 [Video about UX. (In Russian)](https://ok.ru/video/712314849816)
 
-##Flashmob StarFace
+## Flashmob StarFace
 
 To introduce the new functionality to users, OK.ru started a challenge. Users upload their images with the stars of Russian sport, business, media, famous bloggers, journalists who have active accounts in OK.ru. Users get a badge to the profile picture or a subscription to the paid-only service. (Details. In Russian.)
 
@@ -272,7 +272,7 @@ Users uploaded more than 10,000 pictures with celebrities in the first days of t
 
 ![](https://cdn-images-1.medium.com/max/2400/1*TmHtzsacFMdgqHxY5g31Ow.png)
 
-##Plans
+## Plans
 
 The most time-consuming part of the pipeline is the detector. The next step is to replace it or move to the GPU.
 

@@ -64,13 +64,13 @@ The most widely accepted is the one used by Google, Facebook, Lyft, Uber, and ot
 * L5: Senior
 * L6: Staff
 
-**Q**: What about people that have big tech companies as their first industry full-time position? What level will they be considered?
+#### Q: What about people that have big tech companies as their first industry full-time position? What level will they be considered?
 **A**: Fresh grads without a Ph.D. are considered for L3. Fresh grads with a Ph.D. are considered for L4.
 
-**Q**: Is it true that researchers are paid more than engineers?
+#### Q: Is it true that researchers are paid more than engineers?
 **A**: No, it is not. Pay grades are precisely the same.
 
-**Q**: What if you have a Ph.D., have 100500 publications at the top conferences, and move to the industry, will they consider me for L5?
+#### Q: What if you have a Ph.D., have 100500 publications at the top conferences, and move to the industry, will they consider me for L5?
 **A**: If you get an offer, it will be an offer for L4. Publications may improve your chances of getting into the interviewing pipeline, but they will not affect the $$$ in the offer.
 
 ## What are the numbers?
@@ -122,15 +122,15 @@ The same initial offer, but the outcome is quite different.
 
 Was it obvious the year ago that it will turn out that way? Not really. Do we know what will happen in the future? No, we do not. Timing stock markets is a bad idea.
 
-**Q**: I joined the company as a fresh grad with Ph.D. How long will it take to get promoted to L5?
+#### Q: I joined the company as a fresh grad with Ph.D. How long will it take to get promoted to L5?
 
 **A**: It depends. You are not entitled to a promotion. You may get promoted, or may not. If you are not promoted from L4 to L5 in 3 years, you need to consider another role or another company. Hopefully, you will be able to realize your potential there.
 
-**Q**: Compensation numbers for L6 look attractive. How long does this take to get promoted from L5 to L6?
+#### Q: Compensation numbers for L6 look attractive. How long does this take to get promoted from L5 to L6?
 
 **A**: L5 is the terminal level. 90% of the employees never get above it. Let's say best case scenario - another 3 years. More realistic - it will never happen.
 
-**Q**: What should I expect as compensation when I will get an offer?
+#### Q: What should I expect as compensation when I will get an offer?
 
 **A**: As a first step, you need to get the offer. The interview process is very competitive, and no one likes to hire fresh grads. No one in the world knows how to set up the interview process well. Weak candidates get offers, strong candidates get rejected. Hiring strong talent at scale is a very complex problem. It is hard to estimate how productive the candidate will be in a few hours that the team spends talking with him. The strength of the candidate and his ability to pass interviews are not perfectly aligned. For fresh grads, this is even more random than for seniors.
 
@@ -138,11 +138,11 @@ Internships help to mitigate this problem for people from academia. During the i
 
 If you have more than a year till graduation, you need to focus on getting internships. It will help with your skills and your career. As a bonus, it will also help you financially. In graduate school, you are paid around $2000 / month, and as an intern, this number will be around $9000 / month.
 
-**Q**: What will matter the most for the $$$ in the offer, my great publications, or my internships.
+#### Q: What will matter the most for the $$$ in the offer, my great publications, or my internships.
 
 **A**: Internships.
 
-**Q**: If I will get an offer. How can it look?
+#### Q: If I will get an offer. How can it look?
 
 **A**: Just check level.fyi for L4 and look for the lower part of the range.
 
