@@ -3,7 +3,7 @@ layout: single
 title:  "Face recognition on 330 million faces at 400 images per second"
 excerpt: "Face detection, face recognition on 330 million faces at OK.Ru."
 categories: machine_learning
-tags: translation face_detection face_recognition
+tags: translation face_detection face_recognition computer_vision
 
 header:
     image: https://cdn-images-1.medium.com/max/2400/1*4hgXBFm1oR4Dx99kwEYbig.png
