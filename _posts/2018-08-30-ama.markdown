@@ -8,11 +8,12 @@ header:
  image: https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg
  teaser: https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg
 ---
-{% include toc title="Table of Contents" %}
 
 This article was originally posted at [Medium](https://towardsdatascience.com/ask-me-anything-session-with-a-kaggle-grandmaster-vladimir-i-iglovikov-942ad6a06acd).
 
 ---
+{% include toc title="Table of Contents" %}
+
 
 Hello, my name is Vladimir.
 

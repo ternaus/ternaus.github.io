@@ -10,11 +10,11 @@ header:
     teaser: https://miro.medium.com/max/1750/1*lHMua9ruClZwHR8O0fyO7A.jpeg
     caption: Image source - https://www.newsbreak.com/news/1480496874024/elon-musk-revealed-his-favorite-film-of-2019-was-parasite
 ---
-{% include toc title="Table of Contents" %}
 
 This article was originally posted at [Medium](https://towardsdatascience.com/multi-target-in-albumentations-16a777e9006e).
 
 ---
+{% include toc title="Table of Contents" %}
 
 I am one of the authors of the image augmentation library [Albumentations](https://albumentations.ai/).
 

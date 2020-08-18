@@ -8,11 +8,12 @@ header:
     teaser: https://miro.medium.com/max/1800/1*qcl1VLaiSSQ4mvqrso_XaQ.jpeg
     caption: http://basementrejects.com/review/ducktales-season-2/
 ---
-{% include toc title="Table of Contents" %}
+
 
 This article was originally posted at [Medium](https://medium.com/swlh/fresh-grads-compensation-in-silicon-valley-3d694cb3ae59).
 
 ---
+{% include toc title="Table of Contents" %}
 
 In my previous article, I talked about how researchers can improve the readability of the code that they write.
 

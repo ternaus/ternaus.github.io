@@ -11,11 +11,13 @@ header:
     teaser: https://cdn-images-1.medium.com/max/2400/1*4hgXBFm1oR4Dx99kwEYbig.png
 
 ---
-{% include toc title="Table of Contents" %}
+
 
 This article was originally posted at [Medium](https://towardsdatascience.com/face-recognition-on-330-million-images-at-400-images-per-second-b85e594eab66).
 
 ---
+{% include toc title="Table of Contents" %}
+
 This article was originally written in Russian by [Alexander Tobol](https://habr.com/ru/users/alatobol/) and it was published on March 7, 2018, at [habr.com](https://habr.com/ru/company/odnoklassniki/blog/350566/).
 
 In 2018 every student or even every high school kid did a pet project with face recognition. The task becomes much harder if your dataset is not one million people but:
