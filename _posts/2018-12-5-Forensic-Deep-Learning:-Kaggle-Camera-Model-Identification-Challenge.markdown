@@ -6,9 +6,9 @@ categories: machine_learning
 tags: deep_learning machine_learning forensics computer_vision
 
 header:
-    image: https://cdn-images-1.medium.com/max/2400/1*mKGrsSmBWgR0T0yz4k1h0g.png
     teaser: https://miro.medium.com/max/1750/1*mKGrsSmBWgR0T0yz4k1h0g.png
 ---
+![](https://cdn-images-1.medium.com/max/2400/1*mKGrsSmBWgR0T0yz4k1h0g.png)
 
 This article was originally posted at [Medium](https://towardsdatascience.com/forensic-deep-learning-kaggle-camera-model-identification-challenge-f6a3892561bd).
 

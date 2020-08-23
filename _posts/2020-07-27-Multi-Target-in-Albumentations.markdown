@@ -6,10 +6,10 @@ categories: machine_learning
 tags: albumentations tutorial
 
 header:
-    image: https://miro.medium.com/max/1750/1*lHMua9ruClZwHR8O0fyO7A.jpeg
     teaser: https://miro.medium.com/max/1750/1*lHMua9ruClZwHR8O0fyO7A.jpeg
     caption: Image source - https://www.newsbreak.com/news/1480496874024/elon-musk-revealed-his-favorite-film-of-2019-was-parasite
 ---
+![](https://miro.medium.com/max/1750/1*lHMua9ruClZwHR8O0fyO7A.jpeg)
 
 This article was originally posted at [Medium](https://towardsdatascience.com/multi-target-in-albumentations-16a777e9006e).
 

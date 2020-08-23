@@ -4,11 +4,10 @@ title:  "Fresh Grad’s Compensation in Silicon Valley"
 categories: career
 
 header:
-    image: https://miro.medium.com/max/1800/1*qcl1VLaiSSQ4mvqrso_XaQ.jpeg
     teaser: https://miro.medium.com/max/1800/1*qcl1VLaiSSQ4mvqrso_XaQ.jpeg
     caption: http://basementrejects.com/review/ducktales-season-2/
 ---
-
+![](https://miro.medium.com/max/1800/1*qcl1VLaiSSQ4mvqrso_XaQ.jpeg)
 
 This article was originally posted at [Medium](https://medium.com/swlh/fresh-grads-compensation-in-silicon-valley-3d694cb3ae59).
 
