@@ -8,7 +8,7 @@ header:
  teaser: https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg
 ---
 ![](https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg)
-This article is the full version of the interview to [analyticsindiamag.com](https://analyticsindiamag.com/vladimir-iglovikov-machine-learning-kaggle-grandmaster-interview/).
+This article is the full version of the interview with [analyticsindiamag.com](https://analyticsindiamag.com/vladimir-iglovikov-machine-learning-kaggle-grandmaster-interview/).
 
 {% include toc title="Table of Contents" %}
 
@@ -57,7 +57,8 @@ To get some structure, I started taking a Data Science course at Coursera. In on
 
 ## Q: What books and other resources have you used in your journey?
 
-The only book about machine learning that I read was [Deep Learning by Ian Goodfellow](https://amzn.to/3hSz3L5). I read numerous blog posts and papers about ML. I love to watch presentations from the winners of the machine learning competitions and read their solutions. There is a lot of value there. My primary resource to improve my knowledge in data science is the Russian speaking community [ODS.AI](https://ods.ai/). Thousands of data scientists from all over the world, industry experts, researchers, and kagglers. For every data science-related question that I have, there is someone who knows the topic and can educate me.
+The only book about machine learning that I read was [Deep Learning by Ian Goodfellow](https://amzn.to/3hSz3L5). I read numerous blog posts and papers about ML. I love to watch presentations from the winners of the machine learning competitions and read their solutions. There is a lot of value there.
+My primary resource to improve data science knowledge is the Russian speaking community [ODS.AI](https://ods.ai/).. Thousands of data scientists from all over the world, industry experts, researchers, and kagglers. For every data science-related question that I have, there is someone who knows the topic and can educate me.
 
 ## Q: What were the initial challenges? How did you address them?
 
@@ -73,7 +74,7 @@ The third challenge comes from the fact that there is a gap between machine lear
 
 In industry, you need machine learning and strong software engineering skills. I did not have them at the beginning of my journey. I was writing code in graduate school, and it worked, I published papers, wrote a thesis, and graduated. But the code was inefficient, hard to read, hard to maintain.
 
-One of the things that I like about technology companies is that tech is the core of the company. People know that to build a competitive scalable business, you need to have a good codebase and employees who write high-quality code. If you have a high-quality code, it does not mean that your company will do well, but most likely, if it does not, technical debt will kill it.
+One of the things that I like about technology companies is that tech is the company's core. People know that to build a competitive scalable business, you need to have a good codebase and employees who write high-quality code. If you have a high-quality code, it does not mean that your company will do well, but most likely, if it does not, technical debt will kill it.
 
 Hence there are processes like code review, continuous integrations, mentorship from more skilled colleagues. Besides, I believe that most of the experienced programmers and Data Scientists read [Clean Code](https://amzn.to/3giUR22), [Clean Coder](https://amzn.to/3gjCtGn), [The Pragramatic Programmer](https://amzn.to/3fiz3lZ), [Refactoring: Improving the Design of Existing Code](https://amzn.to/3ggMvb6), and [Designing Data-Intensive Applications](https://amzn.to/3flzifQ).
 
@@ -119,7 +120,7 @@ The good thing is that many competitions are similar to each other, and the pipe
 
 You will have plenty of ideas to check for some time, but there will be a moment when you will feel empty. At this point, you will understand the problem really well. It could be time to look for teammates. The standard method is to look at the leaderboard for people that have similar standing.
 
-I do not recommend forming a team too early. If you form a team with a person who did not make a submission themself. Most likely, they would overestimate their excitement and skillset. They will stop being engaged with the problem in the middle of the competition. And there is no way to kick such a person off the team once it was formed.
+I do not recommend forming a team too early. If you start a team with a person who did not make a submission themself. Most likely, they would overestimate their excitement and skillset. They will stop being engaged with the problem in the middle of the competition. And there is no way to kick such a person off the team once it was formed.
 
 ## Q: What fascinates you about Kaggle and its community in general?
 
@@ -140,6 +141,43 @@ AMD Ryzen Threadripper 3970x
 128Gb Ram
 20 Tb+ of various SSD and HDD drives
 
-It is good enough for prototyping, and when I need something beefier, I use AWS or GCP. Both work well. Sometimes I try smaller hostings; for example, I had a positive experience with the Hostkey.
+It is good enough for prototyping, and when I need something beefier, I use AWS or GCP. Both work well. Sometimes I try smaller hostings; for example, I had a [positive experience with the Hostkey](http://ternaus.blog/review/2020/04/08/More-hardware-to-kagglers.html).
 
-Recently I had a conversation with the CEO of Q blocks. They have the initiative to give free compute to active Kagglers. Feel free to reach them out.
+Recently I had a conversation with the CEO of [Q blocks](https://www.qblocks.cloud/). They have the initiative to give free compute to active Kagglers. Feel free to reach them out.
+
+## Q: There is a lot of hype around machine learning. So, when the dust settles down, what will stand the test of time?
+Machine learning is maturing. Five years ago, it was all about Research advancements and what is possible in principle. It was a phase of active exploration, the era of hype. Companies were interested in Researchers. Math, statistics, the theory behind ML algorithms were the things that recruiters were looking for.
+
+Today the hype is fading away; the field becomes mature. It is the beginning of the era of exploitation. The question is not what ML can do, but how to use it to make an impact. Companies are much less interested in researchers, but rather than in Machine Learning engineers: strong Software Engineers that know some machine learning. They may not understand all the theory, but they can build solutions that bring value to the business and bring value to the customers.
+
+Hence I would recommend focusing on software engineering skills. They will not get out of fashion for many decades.
+
+## Q: Which domain of AI, do you think, will come out on top in the next 10 years?
+
+I believe the most widely used algorithm in 10 years will be the same as today, and the same as 10 years ago. And this algorithm is logistic regression. :)
+
+I hope that reinforcement learning will advance and will finally have applications in the industry. If it is the case, it will be huge.
+
+## Q: What do outsiders get wrong about this field?
+
+People that are not used to ML do not understand that it is not deterministic but probabilistic.
+
+In software engineering, we implement A, and it will be able to do B. It is a commitment, and partner teams can plan their actions based on this information.
+
+In machine learning: we will implement A, it may work with accuracy B, but we are not 100% sure. It may not work at all. We will try approaches C and D, they may work.
+
+This is vague, but it is the best that we can often do. It takes some time to communicate it to others.
+
+## Q: What does it take to make a machine learning engineer from GOOD to GREAT? (best practice, workflow management, etc)
+
+To write good code, you need first to write 100500 lines of the bad code. ML is similar. The most skilled people I have seen have at least some computer vision experience, time series, natural language processing, recommender systems, and others. And they train something 24 / 7.
+
+Machine learning competitions are an excellent place to develop your machine learning muscles. At the beginning of my ML journey, I jumped on every competition that came along. It was a brilliant decision.
+
+It is also essential to be a good programmer. The better your code is, the more productive you are. The best way is to join the company with high code standards and learn from your colleagues. But if you are still in ace media, you may follow advice from my article [Nine Simple Steps For A Better-looking Python Code](http://ternaus.blog/tutorial/2020/04/09/Nine-simple-steps-for-better-looking-python-code.html). It could be an excellent first step.
+
+## Q: Any additional tips for the beginners? Book/blog recommendations etc
+
+My advice for beginners is to write blog posts. You learned something new. It could be something very basic. Write a blog post about this.
+
+Explaining the material to others is a great way to solidify your knowledge. The material that I was teaching to students at the University, even now I remember better than the scientific work that I published. If no one reads this, it will still help you. But most likely others will benefit from your explanation, which is good for your Karma :)
