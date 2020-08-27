@@ -10,33 +10,41 @@ tags: kaggle python machine_learning deep_learning
 {% include toc title="Table of Contents" %}
 
 
-To build machine learning muscles, I participated in machine learning (ML) competitions at Kaggle and other platforms. Every challenge ended with new knowledge, code, weights for trained models.
+To build machine learning muscles, I participated in machine learning (ML) competitions at [Kaggle and other platforms](http://ternaus.blog/interview/2018/08/30/ama.html).
+I was [19th in the global rating](https://www.kaggle.com/rankings?group=competitions), got [Kaggle Grandmaster](https://www.kaggle.com/iglovikov) title.
 
-I loved my learnings but ignored the value that my ML pipelines could bring. Code stayed in private GitHub repositories.
+Every ML challenge ended with new knowledge, code, and model weights.
 
-I trained models for months, they lead me to the top of the leaderboard. After the end of the challenge, all of them were deleted.
+I loved new learnings but ignored the value that old ML pipelines could bring. Code stayed in private GitHub repositories.
+Weights were scattered all over the hard drive. After the end of the challenge, all of them were deleted.
 
-The situation is not unique to competitions. People in academia train models, write a paper. After the article got accepted, they delete all model artifacts to free some space at the disk.
+The situation is not unique to Kaggle. Same story in academia. Student trains a model, writes a papers.
+After it gets accepted to the conference, training pipelines are abandoned, artifacts deleted and student moves on.
 
-In this blog post, I will talk about a few small steps that you can do on top of your modeling work that will:
+In this article, I will talk about, small steps that you can do after the end of every machine learning challenge.
 
-* Boost your technical knowledge
-* Build your personal brand
-* Improve your career opportunities
+These steps will:
+
+* Boost technical knowledge.
+* Build personal brand.
+* Improve career opportunities.
 * Make the world a better place  :)
 
 As an example I will use the repository [https://github.com/ternaus/retinaface](https://github.com/ternaus/retinaface)
 
+It was not a part of any Kaggle challenge, but was created to illustrate the story.
 
-## +5 min: Release your code to Github Public repo
+## +5 min: Release code to the Public GitHub repository
 
-Most likely, your code is already at Github, but it is not available to the public. Think about it carefully. What will you lose if you release it?
+Most likely, code is already at GitHub, but in private repo.
 
-There are situations when it is not possible, but in the case of your pet project, your Kaggle solution, or your paper, it may not be the case.
+What will you lose if you will make it public?
 
-The most common obstacle is that people think that their public code should be perfect, that they will be judged.
+There are situations when private should stay private, but in the case of your pet project, your Kaggle solution, or your paper, it may not be the case.
 
-In reality, no one cares. Just do it. Release it as is, without any polishing.
+The most common obstacle that I have seen: people think all public code should be perfect, and that they will be judged if it is not the case.
+
+In reality, no one cares. Just do it. Release as is, without any polishing.
 
 Making code public is an important psychological step. Releasing non-perfect code is a confident, bold move.
 
@@ -278,7 +286,7 @@ If you check the page of your package at PyPI you will see that it uses readme t
 
 Note: We will use the functionality of this step for Google Colab and for a Web App.
 
-VI: +20 min. Create a Google Colab notebook.
+## VI: +20 min. Create a Google Colab notebook.
 
 It is a good practice to add a jupyter notebook to the repository to show how to initialize the model and perform inference. [Example](https://github.com/ternaus/TernausNetV2/blob/master/Demo.ipynb).
 
@@ -294,7 +302,7 @@ Now, the only thing that someone needs to play with your model is browser! Even 
 
 P.S. Do not forget to add a link for notebook to your readme and update version at PyPi.
 
-VII: +20 min. Create WebApp
+## VII: +20 min. Create WebApp
 
 Many Data Scientists assume that building a web app is a complicated procedure that requires specialized knowledge.
 
@@ -401,7 +409,7 @@ Example:
 * Blog post: [Forensic Deep Learning: Kaggle Camera Model Identification Challenge](http://ternaus.blog/machine_learning/2018/12/05/Forensic-Deep-Learning-Kaggle-Camera-Model-Identification-Challenge.html)
 
 
-### IX: Days. Write a paper that describes your solution to the machine learning competition.
+## IX: Days. Write a paper that describes your solution to the machine learning competition.
 
 Even if your paper is not a breakthrough, it will be published and have value to other people.
 Writing papers is a separate skil and you may not have it now. Not a problem. You can collaborate with people that
