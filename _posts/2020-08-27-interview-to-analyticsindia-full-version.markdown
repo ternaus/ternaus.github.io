@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Full version of the interview to Analyticsindiamag: Road To Machine Learning Mastery: Interview With Kaggle GM Vladimir Iglovikov."
+title:  "Full version of the interview to Analytics India Magazine: Road To Machine Learning Mastery: Interview With Kaggle GM Vladimir Iglovikov."
 categories: interview
 tags: kaggle interview career
 
