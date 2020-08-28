@@ -137,21 +137,11 @@ author:
       url: "https://scholar.google.com/citations?user=vkjh9X0AAAAJ&hl=en#"
 
 category_archive:
-  type: jekyll-archives
+  type: liquid
   path: /categories/
 tag_archive:
-  type: jekyll-archives
+  type: liquid
   path: /tags/
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: archive-taxonomy
-    tag: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
 
 compress_html:
   clippings: all
