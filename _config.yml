@@ -66,7 +66,7 @@ defaults:
       read_time: true
       words_per_minute: 250
       comments: true
-      share: true
+      share: false
       related: true
       show_date: true
       author_profile: true
@@ -103,11 +103,11 @@ og_image: /assets/images/teaser.jpg
 atom_feed:
   path: "http://feeds.feedburner.com/TernausBlog"
 
-social:
-  type:  Person
-  links:
-    - "https://twitter.com/viglovikov"
-    - "https://www.linkedin.com/in/iglovikov"
+#social:
+#  type:  Person
+#  links:
+#    - "https://twitter.com/viglovikov"
+#    - "https://www.linkedin.com/in/iglovikov"
 
 analytics:
   provider: "google-gtag"
