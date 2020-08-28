@@ -47,7 +47,7 @@ There are situations when private should stay private, but in your pet project, 
 
 The most common obstacle that I have seen: people assume that all public code should be perfect and that they will be judged if it is not the case.
 
-In reality, no one cares. Just do it. Release as is as is, without any polishing.
+In reality, no one cares. Just do it. Release it as is, without any polishing.
 
 Making code public is an important psychological step. Releasing non-perfect code is a confident, bold move.
 
@@ -231,7 +231,7 @@ from retinaface.pre_trained_models import get_model
 
 model = get_model("resnet50_2020-07-20", max_size=2048)
 ```
-If weights are not on the disk they are downloaded from the internet and cached on the disk.
+If weights are not on the disk, they are downloaded from the internet and cached on the disk.
 The model is initialized, and weights are loaded.
 
 This is user friendly, and that is what you see in [torchvision](https://pytorch.org/docs/stable/torchvision/index.html) and [timm](https://pypi.org/project/timm/) libraries.
@@ -252,7 +252,7 @@ In my case:
 
 <script src="https://gist.github.com/ternaus/8c4bdc5b3695e420db76874261092c1a.js"></script>
 
-This functionality will beleveraged when we will build Colab Notebook and WebApp.
+This functionality will be leveraged when we will build Colab Notebook and WebApp.
 {: .notice--info}
 
 ## V: +20 min. Make a library.
@@ -321,7 +321,7 @@ Now, the only thing that someone needs to play with your model is a browser! Mor
 
 [Example](https://colab.research.google.com/drive/1wLXZyoybDRKizfcIzxPwkeYp-XDpTM-K?usp=sharing#scrollTo=0iI1uHI7ZoTM).
 
-Do not forget to add a link for a notebook to your readme and update version at PyPi.
+Do not forget to add a link for a notebook to your readme and update the version at PyPi.
 {: .notice--info}
 
 ## VII: +20 min. Create WebApp
