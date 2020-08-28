@@ -70,6 +70,16 @@ defaults:
       related: true
       show_date: true
       author_profile: true
+  - scope:
+      path: ""
+      type: tag
+    values:
+      author_profile: true
+  - scope:
+      path: ""
+      type: category
+    values:
+      comments: false
 
 comments:
   provider: "utterances"
