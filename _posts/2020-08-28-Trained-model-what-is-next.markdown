@@ -7,13 +7,10 @@ tags: kaggle python machine_learning deep_learning
 
 header:
     teaser: https://habrastorage.org/webt/t8/gu/h5/t8guh5udxpxg-vxsirt3wewhhho.png
-    caption: Image source - https://www.newsbreak.com/news/1480496874024/elon-musk-revealed-his-favorite-film-of-2019-was-parasite
-
+    image: https://habrastorage.org/webt/t8/gu/h5/t8guh5udxpxg-vxsirt3wewhhho.png
 ---
-![](https://habrastorage.org/webt/t8/gu/h5/t8guh5udxpxg-vxsirt3wewhhho.png)
 
 {% include toc title="Table of Contents" %}
-
 
 I participated in machine learning (ML) competitions at [Kaggle and other platforms](http://ternaus.blog/interview/2018/08/30/ama.html)
 to build machine learning muscles. I was [19th in the global rating](https://www.kaggle.com/rankings?group=competitions), got [Kaggle Grandmaster](https://www.kaggle.com/iglovikov) title.
