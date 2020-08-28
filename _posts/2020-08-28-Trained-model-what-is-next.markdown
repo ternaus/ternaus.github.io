@@ -304,7 +304,7 @@ pip install <your_library_name>
 
 If you check the [package's page at PyPI](https://pypi.org/project/retinaface-pytorch/), you will see that it uses Readme that you have in the repo to present the project.
 
-Note: We will use the functionality of this step for Google Colab and for a Web App.
+We will use the functionality of this step for Google Colab and for a Web App.
 {: .notice--info}
 
 ## VI: +20 min. Create a Google Colab notebook.
