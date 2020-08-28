@@ -8,8 +8,10 @@ tags: translation face_detection face_recognition computer_vision
 header:
     caption: https://habr.com/ru/company/odnoklassniki/blog/350566/
     teaser: https://cdn-images-1.medium.com/max/2400/1*4hgXBFm1oR4Dx99kwEYbig.png
-    image: https://cdn-images-1.medium.com/max/2400/1*4hgXBFm1oR4Dx99kwEYbig.png
+    og_image: https://cdn-images-1.medium.com/max/2400/1*4hgXBFm1oR4Dx99kwEYbig.png
 ---
+
+![](https://cdn-images-1.medium.com/max/2400/1*4hgXBFm1oR4Dx99kwEYbig.png)
 
 This article was originally posted at [Medium](https://towardsdatascience.com/face-recognition-on-330-million-images-at-400-images-per-second-b85e594eab66).
 

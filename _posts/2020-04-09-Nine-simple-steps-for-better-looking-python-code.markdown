@@ -8,8 +8,9 @@ tags: python software_engineering
 header:
     teaser: https://miro.medium.com/max/1750/1*pVTPFHcasXqnlKlH0--YJg.jpeg
     caption: https://pixabay.com/photos/work-workaholic-writer-programmer-1627703/, via https://pixabay.com/photos/work-workaholic-writer-programmer-1627703. (Pixabay Licence)
-    image: https://miro.medium.com/max/1750/1*pVTPFHcasXqnlKlH0--YJg.jpeg
+    og_image: https://miro.medium.com/max/1750/1*pVTPFHcasXqnlKlH0--YJg.jpeg
 ---
+![](https://miro.medium.com/max/1750/1*pVTPFHcasXqnlKlH0--YJg.jpeg)
 
 This article was originally posted at [Medium](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf).
 
