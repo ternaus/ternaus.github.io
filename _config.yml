@@ -44,6 +44,7 @@ url: "ternaus.blog" # the base hostname & protocol for your site, e.g. http://ex
 twitter_username: viglovikov
 github_username:  ternaus
 linkedin_username: iglovikov
+facebook_uername: iglovikov
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"
