@@ -4,10 +4,8 @@ title:  "Full version of the interview to Analytics India Magazine: Road To Mach
 categories: interview
 tags: kaggle interview career
 
-header:
- teaser: https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg
 ---
-![](https://miro.medium.com/max/2500/1*s0epYRs1FW_rZv7_p8HHRQ.jpeg)
+
 This article is the full version of the interview with [analyticsindiamag.com](https://analyticsindiamag.com/vladimir-iglovikov-machine-learning-kaggle-grandmaster-interview/).
 
 {% include toc title="Table of Contents" %}
