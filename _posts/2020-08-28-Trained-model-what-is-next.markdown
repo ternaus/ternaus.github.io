@@ -7,8 +7,9 @@ tags: kaggle python machine_learning deep_learning
 
 header:
     teaser: https://habrastorage.org/webt/t8/gu/h5/t8guh5udxpxg-vxsirt3wewhhho.png
-    image: https://habrastorage.org/webt/t8/gu/h5/t8guh5udxpxg-vxsirt3wewhhho.png
+    og_image: https://habrastorage.org/webt/t8/gu/h5/t8guh5udxpxg-vxsirt3wewhhho.png
 ---
+![](https://habrastorage.org/webt/t8/gu/h5/t8guh5udxpxg-vxsirt3wewhhho.png)
 
 {% include toc title="Table of Contents" %}
 
