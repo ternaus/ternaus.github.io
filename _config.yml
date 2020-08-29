@@ -40,7 +40,7 @@ disqus: ternausX
 google_analytics: UA-83593675-1
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ternaus.blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ternaus.blog" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: viglovikov
 github_username:  ternaus
 linkedin_username: iglovikov
