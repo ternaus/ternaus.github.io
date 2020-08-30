@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Cross-post of the interview at hackernoon to Sanyam Bhutani."
+title:  "Cross-post of the interview at hackernoon to Sanyam Bhutani"
 categories: interview
 tags: kaggle interview career
 
@@ -30,9 +30,9 @@ In this Series of Blog Posts, I talk with people that have really inspired me an
 
 The motivation behind doing this is that you might see some patterns and hopefully, you’d be able to learn from the amazing people that I have had the chance to learn from.
 
-Sanyam Bhutani:​ Hello Grandmaster, Thank you for taking the time to do this.
+**Sanyam Bhutani**: Hello Grandmaster, Thank you for taking the time to do this.
 
-Vladimir I. Iglovikov: Thank you for your questions. It is a pleasure. I will try to be as detailed as possible even if fewer readers are able to survive until the end. :)
+**Vladimir I. Iglovikov**: Thank you for your questions. It is a pleasure. I will try to be as detailed as possible even if fewer readers are able to survive until the end. :)
 
 If I had read a similar text four years ago at the beginning of my Data Science career, I believe my life would have been a bit easier. So it will be well worth all the writing if it will help even just one person.
 
@@ -93,6 +93,7 @@ In the upcoming months, I got top places at:
 * [7th place: Kaggle: Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
 * [1st place: MICCAI 2017: Gastrointestinal Image ANAlysis (GIANA)](http://endovissub2017-giana.grand-challenge.org/)
 * [1st place: MICCAI 2017: Robotic Instrument Segmentation](https://endovissub2017-roboticinstrumentsegmentation.grand-challenge.org/)
+
 **Sanyam Bhutani**: What made you pickup kaggle and continue competing to eventually become a Grandmaster?
 
 **Vladimir I. Iglovikov**: Becoming a [Kaggle Master](https://www.kaggle.com/progression#master) is not that hard. My firm belief is that every decent ML Engineer / Researcher can and should be able to get one gold and two silver models in the Kaggle competitions. And we have plenty of examples of this being the case. It will take some evenings and weekends, but if you have a solid background in Machine Learning from self-education, academic or industrial experience, it should not be that challenging.
@@ -313,7 +314,7 @@ There are plenty of people that go to college to the Computer Science department
 
 **Vladimir I. Iglovikov**: There is only one piece of advice for those who want to start competing. Just do it, and try to get to the top, learning from everyone and everything. Kaggle is a great learning environment for a big subset of Machine Learning skills. The earlier you will start, the earlier you will acquire them.
 
-Sanyam: Thank you so much for doing this interview.
+**Sanyam**: Thank you so much for doing this interview.
 
 **Vladimir I. Iglovikov**: Thanks to you for organizing it and everyone who will have the patience to read till the end :) And special thanks to [Erik Gaasedelen](https://www.linkedin.com/in/erikgaas/) for proofreading!
 
