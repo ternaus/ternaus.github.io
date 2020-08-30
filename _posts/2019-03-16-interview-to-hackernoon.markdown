@@ -11,8 +11,6 @@ header:
 ![](https://hackernoon.com/hn-images/0*nYLuLf4gpmhgyMuI)
 The interview qas originally published at hackernoon: [Interview with Kaggle Grandmaster, Senior CV Engineer at Lyft: Dr. Vladimir I. Iglovikov](https://hackernoon.com/interview-with-kaggle-grandmaster-senior-cv-engineer-at-lyft-dr-vladimir-i-iglovikov-9938e1fc7c).
 
-{% include toc title="Table of Contents" %}
-
 ---
 # Part 24 of The series where I interview my heroes.
 
