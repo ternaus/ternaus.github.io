@@ -97,7 +97,7 @@ Total compensation = base + stock + bonuses
 
 ### Example A
 
-https://cdn-images-1.medium.com/max/2400/1*e5ruGuiIVP_jdSGceqHX2Q.png
+![](https://cdn-images-1.medium.com/max/2400/1*e5ruGuiIVP_jdSGceqHX2Q.png)
 
 An engineer joined company **A** on July 7, 2019. She got $150k as a base pay and stock grant of $400k RSUs with a four-year vesting schedule. A four-year vesting schedule means that the employee will get only a quarter of this after the first year. RSUs are not measured in $$$. They are measured in the units of equity. On July 7, 2019, the stock market price was $60 per share, and she got a stock grant of 6666 shares.
 
@@ -111,7 +111,7 @@ The reality was worse than expectations.
 
 ### Example B
 
-https://cdn-images-1.medium.com/max/2400/1*YHhf9tCs_-nORdEPOCymvQ.png
+![](https://cdn-images-1.medium.com/max/2400/1*YHhf9tCs_-nORdEPOCymvQ.png)
 
 Software Engineer accepted an offer to company B: base $150k and a four-year grant for $400k RSUs.
 
@@ -242,8 +242,6 @@ There is a quantity called "**Fuck you money**."
 ![image-center](https://cdn-images-1.medium.com/max/2400/1*oqQ1Jg4J1GhQQC8jTAP_yA.jpeg)
 
 > **Fuck you money** is a fancy way of saying enough money that you're completely financially independent. You can say "**fuck you**" to an employer or a business proposition, and it won't affect your living standards noticeably.
-
-*https://www.imdb.com/title/tt0493464/*
 
 "Fuck you money" will not make you happy, but financial independence is a desirable state.
 
