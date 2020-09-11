@@ -144,3 +144,7 @@ Working on the open-source project is challenging, but very exciting. I would li
 * [Mikhail Druzhinin](https://www.linkedin.com/in/mikhail-druzhinin-548229100/)
 
 and all the [contributors](https://www.linkedin.com/in/mikhail-druzhinin-548229100/) that helped to build the [library](https://albumentations.ai/) and get it to its current state.
+
+## Translations to other languages
+### Russian
+* At [Habrahabr](https://habr.com/ru/post/514316/)

@@ -244,6 +244,11 @@ There are other standard techniques like:
 * Automatic documentation
 * etc
 
-But they could not be enforced as easy as steps that I described above. Hence we will leave them to another time. :)
+But they could not be enforced as easy as steps that I described above. Hence we will leave them to another time. :)
 
 **P.S.** For those readers that have problems implementing the techniques that I described, feel free to ping me, and I will extend the corresponding points.
+
+## Translations to other languages
+### Chinese
+* At [CSDN](https://blog.csdn.net/Marquis0819/article/details/108517419)
+* At [Zhihu](https://zhuanlan.zhihu.com/p/219831526)
