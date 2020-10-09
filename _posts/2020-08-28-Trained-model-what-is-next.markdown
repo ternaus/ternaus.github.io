@@ -457,3 +457,8 @@ Besides - your paper will not be alone. It comes in a package with:
 * The blog post that uses human being language to tell the story.
 
 It is not a paper anymore, it is a cohesive strategy that shows your "ownership" and "communication." Both are crucial for your career growth, but I will talk about it next time :)
+
+## Translations to other languages
+### Chinese
+* At [CSDN](https://blog.csdn.net/Marquis0819/article/details/108973919)
+* At [Zhihu](https://zhuanlan.zhihu.com/p/250805106)
