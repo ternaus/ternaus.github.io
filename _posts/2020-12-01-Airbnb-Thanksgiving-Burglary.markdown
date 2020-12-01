@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Airbnb. Thanksgiving. Burglary."
-excerpt: "Shit happens. And sometimes it is not our fault."
+excerpt: "Bad things happen. And sometimes it is not our fault."
 categories: incident
 tags: crime incident
 
