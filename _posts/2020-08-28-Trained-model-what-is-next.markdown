@@ -265,7 +265,7 @@ git clone retinaface
 ### Step 1: add necessary dependencies to the requirements.txt
 You can use
 ```bash
-pip freeze > requirments.txt
+pip freeze > requirements.txt
 ```
 
 or update it manually.
