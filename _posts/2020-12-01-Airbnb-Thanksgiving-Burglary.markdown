@@ -98,7 +98,7 @@ To my surprise, it is not the case.
 
 I spent some time on the Airbnb website but could not figure out which phone number I should call.
 
-Message to AirBnb: It would be great if you simplify the design of the support page. When we talk about safety, it should be about efficiency and not about the visual appeal or cuteness level.
+**Message to AirBnb**: It would be great if you simplify the design of the support page. When we talk about safety, it should be about efficiency and not about the visual appeal or cuteness level.
 {: .notice--warning}
 
 I would like it to be:
