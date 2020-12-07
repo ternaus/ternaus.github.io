@@ -136,7 +136,7 @@ All this story is not about money. But getting compensated for the host's and Ai
 
 We interpreted the email as: "We will compensate up to $500 per stolen item". Using the numbers from the invoices, it summed to $2600.
 
-We collected invoices, sent them to Airbnb, and got the reply with words: "After additional review, I'm happy to report that we have just released a payout in the amount of $500 to your Airbnb account. You can confirm in your Airbnb Transaction History." As of today (2020-12-01), I do not see it.
+We collected invoices, sent them to Airbnb, and got the reply with words: "After additional review, I'm happy to report that we have just released a payout in the amount of $500 to your Airbnb account. You can confirm in your Airbnb Transaction History."
 
 The guess about up to $500 per item was overly optimistic.
 
