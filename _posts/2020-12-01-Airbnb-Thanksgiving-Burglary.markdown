@@ -171,6 +171,6 @@ Overall, I believe that staying at AirBnB is safe, and such incidents are the ex
 
 I would like to end the story with some action items like: "__Next time, when I rent a place, I will do XXX__." Nothing reasonable comes to my mind.
 
-When I sit in front of the computer in San Francisco, the only thing that comes to my mind is to build a Face Recognition system and check the burglar's face in it. Something similar to Clearview. Machine Learning is my expertise; creating such a system is straightforward but will take some time. Tempting. Thinking about it.
+One option would be to do an extensive check of all locks in the building after moving in and taking all expensive belongings with me when I leave the house. I will do it in future, but it may ruin some level of fun from my future vacations.
 
 What would be your action item after such an experience?
