@@ -172,6 +172,6 @@ Overall, I believe that staying at AirBnB is safe, and such incidents are the ex
 I would like to end the story with some action items like: "__Next time, when I rent a place, I will do XXX__." Nothing reasonable comes to my mind.
 
 One option could be to do an extensive check of all locks in the building after moving in. Another is to take all expensive belongings with me when I leave the house.
-I will do it in the future, but it may ruin decrease the level of fun from my vacations.
+I will do it in the future, but it may decrease the level of fun from my vacations.
 
 What would be your action item after such an experience?
