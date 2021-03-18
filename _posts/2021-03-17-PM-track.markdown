@@ -1,0 +1,146 @@
+---
+layout: single
+title:  "YouDo Product Skills Track"
+excerpt: "A list of books to boost your Product Management skills."
+categories: books
+tags: books
+
+header:
+    teaser: https://habrastorage.org/webt/vp/07/f2/vp07f2kfsdek3s2czlmlnpadlxi.jpeg
+    og_image: https://habrastorage.org/webt/vp/07/f2/vp07f2kfsdek3s2czlmlnpadlxi.jpeg
+---
+{% include toc title="Table of Contents" %}
+
+![](https://habrastorage.org/webt/vp/07/f2/vp07f2kfsdek3s2czlmlnpadlxi.jpeg)
+
+I came across a great list of resources for product managers by [Adam Eldarov](https://www.linkedin.com/in/adam-eldarov-04b472b7/),
+the Chief Product Officer at [YouDo](https://youdo.com/). YouDo is a Russian company, and the list is in Russian.
+I believe that it is great (I have read 10 books from it so far and loved them.) and that it is worth showing it to the English-speaking audience.
+
+
+The following article is the translation of Adam's text to English. I removed links to the resources that require the knowledge of Russian.
+For example, the sections of "Customer Journey Map" and "UX Writing" were removed.
+
+If you speak Russian, I recommend using the
+[original article](https://www.notion.so/YouDo-Product-Skills-Track-426ef30ec1fc4a8195959dafa16710e5).
+
+In the modern tech world, engineers work closely with product people. Hence, I recommend these books
+to all engineers. It will boost skills and help to advance the career.
+
+---------------------------
+
+In this article, you will find resources to boost your product skills. After finishing the list, you will know the theory
+at the Lead Product Manager level. It is only a theory. It complements but does not substitute practical skills.
+
+Each section corresponds to the specific skill that is required to build successful products.
+
+There is no particular order in which you need to choose the section, but after choosing one,
+I recommend studying the material within this section in the given order.
+
+## Common PM
+
+* [INSPIRED: How to Create Tech Products Customers Love](https://amzn.to/3eM8XLv)
+* [Cracking the PM Interview: How to Land a Product Manager Job in Technology](https://amzn.to/3cG0GG5)
+* [Intercom on Product Management](https://amzn.to/3eMSiXZ)
+* [Shape Up](https://basecamp.com/shapeup)
+
+## User Research
+### Common
+
+* [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://amzn.to/2QbdjBr)
+* [The Four Steps to the Epiphany: Successful Strategies for Products that Win](https://amzn.to/3bUioX7)
+* [Lean Customer Development: Building Products Your Customers Will Buy](https://amzn.to/3vCVQ5l)
+* [Just Enough Research](https://amzn.to/3tyMRQu)
+
+### UX Research
+
+* [Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests](https://amzn.to/3r0reqK)
+
+### Jobs to be Done
+
+* [Intercom on Jobs‑to‑be‑Done](https://www.intercom.com/resources/books/intercom-jobs-to-be-done)
+* [When Coffee and Kale Compete: Become great at making products people will buy](https://amzn.to/38SV76h)
+
+## Numerical Analysis
+
+## Decision-making and the analysis of metrics
+
+* [Practical Data Dictionary](https://data36.com/datadictionary/)
+
+### SQL
+
+* [Exercises at SQL Bolt](https://sqlbolt.com/)
+* [Exercises at SQL Ex](https://www.sql-ex.ru/)
+
+## Strategy
+
+* [Understanding Michael Porter: The Essential Guide to Competition and Strategy](https://amzn.to/3lqYDKf)
+* [Good Strategy Bad Strategy: The Difference and Why It Matters](https://amzn.to/3s9vRA0)
+* [7 Powers: The Foundations of Business Strategy](https://amzn.to/3lokp10)
+* [Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://amzn.to/3ltHdwy)
+
+## How business and economy work
+
+* [Economics: The User's Guide](https://amzn.to/2OA2ZTn)
+* [The Personal MBA](https://amzn.to/30Qqav9)
+* [What is the Profit and Loss Statement (P&L)?](https://corporatefinanceinstitute.com/resources/knowledge/accounting/profit-and-loss-statement-pl/)
+
+## Business models and promoting the product
+
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://amzn.to/2OKNpUT)
+* [Value Proposition Design: How to Create Products and Services Customers Want](https://amzn.to/38MD41q)
+* [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://amzn.to/3vJ6kQL)
+* [50+ business model examples](https://www.boardofinnovation.com/guides/50-business-model-examples/)
+
+## UI & UX
+
+* [The Design of Everyday Things](https://amzn.to/3vyZWeA)
+* [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://amzn.to/3cJDVBi)
+* [The Non-Designer's Design Book](https://amzn.to/3vAXHYb)
+
+## Lean
+* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://amzn.to/2NrJFXD)
+* [Scaling Lean: Mastering the Key Metrics for Startup Growth](https://amzn.to/3tuDj9d)
+
+## Agile
+* [Agile Manifesto](https://agilemanifesto.org/iso/en/manifesto.html)
+* [Scrum Guide](https://scrumguides.org/)
+* [Scrum: The Art of Doing Twice the Work in Half the Time](https://amzn.to/3qW2Zde)
+* [Scrum and Xp from the Trenches](https://amzn.to/3eRaJuS)
+
+## System thinking
+* [Thinking in Systems](https://amzn.to/3tpX9lW)
+* [The Goal: A Process of Ongoing Improvement](https://amzn.to/3vL62ZA)
+
+## Design thinking
+* [How to apply a design thinking, HCD, UX or any creative process from scratch](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812)
+* [Sprint (How to Solve Big Problems and Test New Ideas in Just Five Days)](https://amzn.to/2P3q4xq)
+
+## Communication
+* [Nonviolent Communication (A Language of Life)](https://amzn.to/2QjrIvz)
+* [Crucial Conversations Tools for Talking When Stakes Are High, Second Edition](https://amzn.to/38UfEai)
+* [How To Win Friends and Influence People](https://amzn.to/3eTLUOU)
+* [Influence: The Psychology of Persuasion](https://amzn.to/3lulq7F)
+
+## Negotiations
+* [Everything is Negotiable](https://amzn.to/3cPlQBA)
+* [Never Split the Difference: Negotiating As If Your Life Depended On It](https://amzn.to/2P3ruYM)
+* [Start with No: The Negotiating Tools that the Pros Don't Want You to Know](https://amzn.to/3vEz2C8)
+
+## People management
+* [High Output Management](https://amzn.to/3vyHPWh)
+* [Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior](https://amzn.to/30YGrhz)
+* [Drive: The Surprising Truth About What Motivates Us](https://amzn.to/3lrTjGi)
+* [The Making of a Manager: What to Do When Everyone Looks to You](https://amzn.to/3bZvxOJ)
+* [Who](https://amzn.to/3c0VzkA)
+* [Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization](https://amzn.to/38TjSPH)
+* [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://amzn.to/3vxEiHA)
+
+## Politics
+* [The 48 Laws of Power](https://amzn.to/38UDy5J)
+
+## Brain science
+* [Thinking, Fast and Slow](https://amzn.to/3lrUtSa)
+* [Cognitive bias cheat sheet](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18)
+* [Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long](https://amzn.to/3lszbDU)
+* [Predictably Irrational: The Hidden Forces That Shape Our Decisions](https://amzn.to/3r6fm6Q)
