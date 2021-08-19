@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "List of good non-fiction books that I have read in 2017-2021."
-excerpt: "List of non-fiction books that helped me why working at Lyft (2017-2021)."
+title:  "List of good non-fiction books that I have read in 2018-2021."
+excerpt: "List of non-fiction books that helped me why working at Lyft (2018-2021)."
 categories: books
 tags: books
 
