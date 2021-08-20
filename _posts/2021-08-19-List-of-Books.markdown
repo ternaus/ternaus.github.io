@@ -36,13 +36,19 @@ It is not the complete list; it is the list that I have read so far and found in
 
 1. [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://amzn.to/3sva8nj)
 2. [INSPIRED: How to Create Tech Products Customers Love](https://amzn.to/2XFGNLE)
-3. [The Goal: A Process of Ongoing Improvement](https://amzn.to/3ggQpD2)
+3. [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://amzn.to/3z1xZ0d)
 4. [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](https://amzn.to/3ggpbwh)
+
+## Management
+1. [High Output Management](https://amzn.to/3iZ1J8n)
+2. [No Rules Rules: Netflix and the Culture of Reinvention](https://amzn.to/3AYCs4i)
+3. [The Goal: A Process of Ongoing Improvement](https://amzn.to/3ggQpD2)
+4. [Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss Without Losing Your Humanity](https://amzn.to/3svXcxs)
+5. [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://amzn.to/3iZ23UD)
 
 ## Communication, teamwork, and collaboration
 
-1. [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://amzn.to/3z1xZ0d)
-2. [Nonviolent Communication: Create Your Life, Your Relationships, and Your World in Harmony with Your Values](https://amzn.to/3D1gC2g)
+1. [Nonviolent Communication: Create Your Life, Your Relationships, and Your World in Harmony with Your Values](https://amzn.to/3D1gC2g)
 3. [Crucial Conversations Tools for Talking When Stakes Are High, Second Edition](https://amzn.to/3k7Hl4p)
 4. [The Culture Map: Breaking Through the Invisible Boundaries of Global Business](https://amzn.to/3xVHKvK)
 5. [The Asshole Survival Guide: How to Deal with People Who Treat You Like Dirt](https://amzn.to/3moHVNM)
@@ -76,8 +82,7 @@ It is not the complete list; it is the list that I have read so far and found in
 
 ## Stories about people and companies
 
-1. [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/3xVPVbm)
-2. [No Rules Rules: Netflix and the Culture of Reinvention](https://amzn.to/3AYCs4i)
+1. [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/3xVPVbm) 
 3. [Super Pumped: The Battle for Uber](https://amzn.to/3k8t3Av)
 4. [Steve Jobs](https://amzn.to/3j0l2hA)
 5. [The Airbnb Story: How Three Ordinary Guys Disrupted an Industry, Made Billions . . . and Created Plenty of Controversy](https://amzn.to/3k7rhj6)
@@ -106,9 +111,7 @@ It is not the complete list; it is the list that I have read so far and found in
 ## Other
 1. [Thinking, Fast and Slow](https://amzn.to/3DbMXn4)
 2. [The Black Swan: The Impact of the Highly Improbable](https://amzn.to/3y4QzTU)
-3. [High Output Management](https://amzn.to/3iZ1J8n)
-4. [The Righteous Mind: Why Good People Are Divided by Politics and Religion](https://amzn.to/3B9QMr9)
-5. [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://amzn.to/3kbyAGs)
-6. [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://amzn.to/3iZ23UD)
-7. [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3D059zU)
+3. [The Righteous Mind: Why Good People Are Divided by Politics and Religion](https://amzn.to/3B9QMr9)
+4. [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://amzn.to/3kbyAGs)5. 
+5. [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3D059zU)
 
