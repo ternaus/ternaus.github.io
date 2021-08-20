@@ -13,7 +13,7 @@ tags: books
 
 Practice without theory is blind. Hence we need to supplement our practical endeavors with theoretical works. And it often comes in the form of books.
 
-Here is a list of books I have read while working at Lyft. I do not agree with all the ideas presented in them. However, they proved to be ultra-valuable in advancing my career and shaped my current understanding of the tech industry.
+Here is a list of books I have read while working at Lyft. I can't entirely agree with all the ideas presented in them. However, they proved to be ultra-valuable in advancing my career and shaped my current understanding of the tech industry.
 
 How to pick which one to read? 
 
@@ -33,6 +33,7 @@ It is not the complete list; it is the list that I have read so far and found in
 
 
 ## Product
+
 
 1. [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://amzn.to/3sva8nj)
 2. [INSPIRED: How to Create Tech Products Customers Love](https://amzn.to/2XFGNLE)
