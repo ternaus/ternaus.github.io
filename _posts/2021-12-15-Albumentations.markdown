@@ -10,7 +10,7 @@ header:
 ---
 {% include toc title="Table of Contents" %}
 
-I will talk about [Albumentations](https://albumentations.ai/), an open-source library for image Augmentations, discuss how it was born and evolved over time. The text's primary purpose is logging, as I would like to have a story to enjoy in 20 years. 
+I would like to talk about  Albumentations, an open-source library for image Augmentations. An explanation of how it was born and evolved over time. The text's primary purpose is to depict its creation, as I would like to have a story to enjoy in 20 years. 
 
 I will mainly talk about the library's origins and cover the process of iterative improvements in fewer details. The text could be more concise, but I prefer to keep unnecessary information for historical purposes.
 
@@ -22,9 +22,9 @@ I will mainly talk about the library's origins and cover the process of iterativ
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/ce3/1d5/12c/ce31d512c33f861dad68414e9f032ff2.png)
 
 * **Q**: Why do we need this?
-* **A**: Neural networks trained on larger datasets show better generalizability. 
+* **A**:  Neural networks trained on larger datasets generalize better.
 
-One way to increase the size of the dataset is to collect and label more relevant data. This works well but is expensive and could take time.
+One way to increase the size of the dataset is to collect and label more relevant data. It works well but is expensive and could take some time. 
 
 Another way is to apply augmentations. They are not as valuable as adding new data, but you get them for free. 
 
@@ -46,14 +46,14 @@ The task was rather dull, very similar to the MNIST classification. Discussing i
 
 The problem was not exciting but did not require much work. End2end pipeline could be implemented in one evening. After that, you needed to experiment with hyperparameters and augmentations, which could be done passively.
 
-Augmentation is an excellent regularization. More augmentations I added - better my networks behave.
+Augmentation is an excellent regularization. The more augmentations I added - the better my networks behave.
 
 We finished [7th out of 936 teams](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/leaderboard). We did not get any money, but titles of Kaggle Grandmasters became closer :)
 
 Regarding image augmentations, three things were important:
 
 * The mainstream opinion was that the bottleneck in training was GPU. The more powerful GPUs you have - the faster is network training.
-* In the [DSTL Satellite Imagery Feature Detection challenge at Kaggle](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/discussion/31419), my team finished [2nd](https://medium.com/kaggle-blog/dstl-satellite-imagery-competition-3rd-place-winners-interview-vladimir-sergey-85395e51e118), and I bought a home computer with four power in 2017 GPUs.
+* In the [DSTL Satellite Imagery Feature Detection challenge at Kaggle](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/discussion/31419), my team finished [2nd](https://medium.com/kaggle-blog/dstl-satellite-imagery-competition-3rd-place-winners-interview-vladimir-sergey-85395e51e118), and I bought a home computer with four powerful GPUs (for 2017).
 * For augmentations, we used the open-source library [ImgAug](https://github.com/aleju/imgaug). It has a lot of powerful transforms, but it is not optimized for fast execution.
 
 
@@ -79,7 +79,7 @@ After getting the Kaggle Grandmaster title, I stopped caring about machine learn
 
 But there was an issue that I wanted to address. I did not have papers about Deep Learning during the job search, which made my life harder.
 
-I wanted to fill my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&tzom=480&user=vkjh9X0AAAAJ) with many deep learning publications and no longer worry about this issue.
+I wanted to fill my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&tzom=480&user=vkjh9X0AAAAJ) with many deep learning publications and no longer worry about that issue.
 
 I found that CVPR 2018 had a [Deepglobe workshop](http://deepglobe.org/), which had a competition track with three challenges. For every challenge, participants needed to submit a prediction on the test set and a short paper describing the solution for every challenge for all three.
 
