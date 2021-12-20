@@ -14,7 +14,7 @@ I would like to talk about  Albumentations, an open-source library for image Aug
 
 I will mainly talk about the library's origins and cover the process of iterative improvements in fewer details. The text could be more concise, but I prefer to keep unnecessary information for historical purposes.
 
-[Albumentations](https://albumentations.ai/) is another python library for image augmentations. 
+[Albumentations](https://albumentations.ai/) is another python library for image augmentations. It is widely used in Deep Learning tasks, especially with PyTorch. 
 
 * **Q**: What are image augmentations?
 * **A**: Image augmentation is a way to generate a new image from the one you already have. Typically, it is something simple as rotations or reflections but could be more involved, like adding rain or applying style transfer.
@@ -53,7 +53,7 @@ We finished [7th out of 936 teams](https://www.kaggle.com/c/planet-understanding
 Regarding image augmentations, three things were important:
 
 * The mainstream opinion was that the bottleneck in training was GPU. The more powerful GPUs you have - the faster is network training.
-* In the [DSTL Satellite Imagery Feature Detection challenge at Kaggle](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/discussion/31419), my team finished [2nd](https://medium.com/kaggle-blog/dstl-satellite-imagery-competition-3rd-place-winners-interview-vladimir-sergey-85395e51e118), and I bought a home computer with four powerful GPUs (for 2017).
+* In the [DSTL Satellite Imagery Feature Detection challenge at Kaggle](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection), my team finished [2nd](https://medium.com/kaggle-blog/dstl-satellite-imagery-competition-3rd-place-winners-interview-vladimir-sergey-85395e51e118), and I bought a home computer with four powerful GPUs (for 2017).
 * For augmentations, we used the open-source library [ImgAug](https://github.com/aleju/imgaug). It has a lot of powerful transforms, but it is not optimized for fast execution.
 
 
@@ -65,15 +65,15 @@ All team members, including [Alexander Buslaev](https://www.linkedin.com/in/al-b
 
 Four months later, in **fall 2017**, I left a job at TrueAccord, accepted an offer from Lyft ([blog post on how I was searching for the job](https://ternaus.blog/career/2020/01/08/How-I-Found-my-current-job.html)), and took a break.
 
-At the same time, Kaggle hosted [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge). The task was binary segmentation. I used the pipeline from a previous competition and got to the top 10 on the public leaderboard.  Another team from the top 10: [Alexander Buslaev](https://www.linkedin.com/in/al-buslaev/) and [Artem Sanakoyeu](https://www.linkedin.com/in/sanakoev/), proposed to join the efforts. We merged and finished first, by luck beating the legendary anonymous Bestfitting by 0.000001. ([blog post with the solution](https://medium.com/kaggle-blog/carvana-image-masking-challenge-1st-place-winners-interview-78fcc5c887a8)).
+At the same time, Kaggle hosted [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge). The task was binary segmentation. I used the pipeline from a previous competition and got to the top 10 on the public leaderboard.  Another team from the top 10: [Alexander Buslaev](https://www.linkedin.com/in/al-buslaev/) and [Artem Sanakoyeu](https://www.linkedin.com/in/sanakoev/), proposed to join the efforts. We merged and finished first, by luck beating the legendary anonymous [Bestfitting](https://www.kaggle.com/bestfitting) by 0.000001. ([blog post with the solution](https://medium.com/kaggle-blog/carvana-image-masking-challenge-1st-place-winners-interview-78fcc5c887a8)).
 
 During the challenge, we shared code. I checked out Alexander's augmentation pipeline. It was elegant and fast, and I liked it.
 
 I had my own and used it to win a few ML challenges, but I was tired of extending and debugging it.
 
-I copy-pasted his augmentations, and for the next six months, we improved them independently. In **winter 2018**, I won another challenge and achieved the title of Kaggle Grandmaster, while Alexander won SpaceNet and Urban 3d at Topcoder. He used the prize money to buy an apartment :)
+I copy-pasted his augmentations, and for the next six months, we improved them independently. In **winter 2018**, I won another challenge and achieved the title of [Kaggle Grandmaster](https://www.kaggle.com/iglovikov), while Alexander won SpaceNet and Urban 3d at Topcoder. He used the prize money to buy an apartment :)
 
-April 2018 The team ods.ai: [Alexander Buslaev](https://www.linkedin.com/in/al-buslaev/), [Selim Sefebekov](https://www.linkedin.com/in/selim-seferbekov-474a4497/), and [Victor Durnov](https://www.linkedin.com/in/victordurnov/) won [Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018), finishing 1 out of 3634 teams and were relaxing after this exhausting marathon.
+**April 2018** The team ods.ai: [Alexander Buslaev](https://www.linkedin.com/in/al-buslaev/), [Selim Sefebekov](https://www.linkedin.com/in/selim-seferbekov-474a4497/), and [Victor Durnov](https://www.linkedin.com/in/victordurnov/) won [Data Science Bowl 2018](https://www.kaggle.com/c/data-science-bowl-2018), finishing [1 out of 3634](https://www.kaggle.com/c/data-science-bowl-2018/discussion/54741) teams and were relaxing after this exhausting marathon.
 
 After getting the Kaggle Grandmaster title, I stopped caring about machine learning competitions. 
 
@@ -124,7 +124,7 @@ During the summer of 2018 we:
 * Improved test coverage
 * Added linters, formatters, improved Docstrings and Readme
 
-We added several [Jupiter notebooks with examples](https://albumentations.ai/docs/examples/) on how to use the library. We also added an [example of how to move from Torchvision to Albumentations](https://albumentations.ai/docs/examples/migrating_from_torchvision_to_albumentations/) in a few lines of code.
+We added several [Jupyter notebooks with examples](https://albumentations.ai/docs/examples/) on how to use the library. We also added an [example of how to move from Torchvision to Albumentations](https://albumentations.ai/docs/examples/migrating_from_torchvision_to_albumentations/) in a few lines of code.
 
 **November 28, 2018**, Alexander added "multi-target" functionality. It allowed applying the same transform to a set of images, masks, and bounding boxes. We added a [jupyter notebook](https://albumentations.ai/docs/examples/example_multi_target/), and later, in 2020, I wrote a separate [blog post](https://medium.com/pytorch/multi-target-in-albumentations-16a777e9006e) on the topic.
 
@@ -146,7 +146,7 @@ Mikhail had experience optimizing code for weak hardware and instantly found a f
 
 **September 12, 2019**, Mikhail joined the core team.
 
-**September 27, 2019**, Alexander added [Replay/Compose](https://albumentations.ai/docs/examples/replay/) mode. Augmentation pipeline is composed of a set of transforms with different probabilities. Applying it twice to the same image will get different results, making debugging ultra hard. Replay/Compose allows full reproducibility when needed.
+**September 27, 2019**, Alexander added [Replay](https://albumentations.ai/docs/examples/replay/) mode. Augmentation pipeline is composed of a set of transforms with different probabilities. Applying it twice to the same image will get different results, making debugging ultra hard. Replay/Compose allows full reproducibility when needed.
 
 **February 2020** Alex updated documentation and created a website for the project - [albumentations.ai](https://albumentations.ai/). The website looked so good that the author of the Insightface adapted the template for his website [insightface.ai](https://insightface.ai/) :)
 
@@ -194,13 +194,13 @@ We did not know and just experimented.
 
 ### Academia
 
-In **August 2018**, two months after the first release, I asked [Alexander Kalinin](https://www.linkedin.com/in/alxndrkalinin/) to write a [pre-print for arXiv](https://arxiv.org/abs/1809.06839) about the library. The primary purpose was to make it easy for people in academia to cite us. For sure, we could add Bibtex to the Readme, but citing GitHub repositories is not widely accepted yet, and many people refuse to do this.
+In **August 2018**, two months after the first release, I asked [Alexander Kalinin](https://www.linkedin.com/in/alxndrkalinin/) to write a [pre-print for arXiv](https://arxiv.org/abs/1809.06839) about the library. The primary purpose was to make it easy for people in academia to cite us. For sure, we could add BibTex to the Readme, but citing GitHub repositories is not widely accepted yet, and many people refuse to do this.
 
 In the beginning, it was self-citations. In 2018-2020 I actively published papers and always cited out pre-print. In the beginning, it was self-citations. In 2018-2020 I actively published papers and always cited out pre-print. But pretty quickly, unknown to us, researchers started to mention our pre-print.
 
 In the **summer of 2019**, Alexander Kalinin lectured in summer school in Poland. Another lecturer there was [Sebastian Raschka](https://www.linkedin.com/in/sebastianraschka/). Sebastian mentioned that he is an editor for a special issue to the MDPI and asked if we have anything relevant. Alexander showed the pr-print, Sebastian liked it, and invited him to write a full-scale publication.
 
-We (mainly Alexander Kalinin), wrote [the paper](https://www.mdpi.com/2078-2489/11/2/125), and now it is the most cited paper of that article, slightly ahead of the [FastAI paper](https://www.mdpi.com/2078-2489/11/2/108) by [Jeremy Howard](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur)).
+We (mainly Alexander Kalinin), wrote [the paper](https://www.mdpi.com/2078-2489/11/2/125), and now it is the most cited paper of that special edition.
 
 What else can we do here? People in academia introduce novel augmentation, and often someone adds them to the Albumentations.
 
@@ -226,7 +226,7 @@ A man was sitting next to me. I wanted to show off and mention that I am a Kaggl
 
 ### Industry
 
-Taking to computer vision people from various companies, I got an impression that Albumentations is used all over the place, including all FAANG.
+Taking to computer vision people from various companies, I got an impression that Albumentations is used all over the place, including all [FAANG](https://en.wikipedia.org/wiki/Big_Tech).
 
 But it is unclear how to make this information publicly available on the website.
 
@@ -236,7 +236,7 @@ In general, the question is open. I do not know how to scale this up.
 
 ### Open source
 
-I can see 5700 repositories and 144 packets with Albumentations as a dependency.
+I can see [5700 repositories and 144 packets](https://github.com/albumentations-team/albumentations/network/dependents) with Albumentations as a dependency.
 
 In this case, it was clear what to do. I needed to take a popular repository with a computer vision training pipeline and rewrite the augmentation part with Albumentations. Repeat many times.
 
@@ -258,7 +258,7 @@ I was ready to do this, but refactoring someone else's code did not thrill me. L
 These are top ten repositories, which have Albumentations as a dependency.
 
 What can we do better?
-* We can look for questions at StackOverflow about image augmentations and answer them with code using Albumentations.
+* We can look for questions at Stack Overflow about image augmentations and answer them with code using Albumentations.
 
 ### Other experiments
 
@@ -268,7 +268,7 @@ I live in the US and was promoting the library in English.
 
 The rest of the team lives in Eastern Europe and promoted the library in Russian.
 
-**October 2019**, the library became a part of the [Pytorch Ecosystem](https://pytorch.org/ecosystem/). It was not hard to get there, but we thought it was very cool. There is even a [conference about Pytorch Ecosystem](https://pytorch.org/ecosystem/pted/2021). We could participate and promote the library there, but we were always busy, and it did not happen.
+**October 2019**, the library became a part of the [PyTorch Ecosystem](https://pytorch.org/ecosystem/). It was not hard to get there, but we thought it was very cool. There is even a [conference about PyTorch Ecosystem](https://pytorch.org/ecosystem/pted/2021). We could participate and promote the library there, but we were always busy, and it did not happen.
 
 **February 2020**, we got into the [Nvidia Inception Program](https://www.nvidia.com/en-us/startups/). We did not plan to get there. Someone told us about this option, we applied and got approved. We got $100k AWS credits for a year and proudly added "Member of the Nvidia Inception Program" to the website. :)
 
@@ -289,7 +289,7 @@ Not all, but most of the announcements spread well. I have [6k followers on Twit
 
 The product is successful when people who are not affiliated with it write blog posts about it. If we use this metric, Albumentations is a success as people regularly create blog posts mentioning Albumentations.
 
-My favorite is [one](https://towardsdatascience.com/explore-image-augmentations-using-a-convenient-tool-a199b4ac8214) by [Ilia Larchenko](https://www.linkedin.com/in/larchenko/). He used streamlit to create a web app that allows choosing augmentations and their parameters for a task at hand.
+My favorite is [one](https://towardsdatascience.com/explore-image-augmentations-using-a-convenient-tool-a199b4ac8214) by [Ilia Larchenko](https://www.linkedin.com/in/larchenko/). He used streamlit to create a [web app](https://albumentations-demo.herokuapp.com/) that allows choosing augmentations and their parameters for a task at hand.
 
 ![](https://habrastorage.org/getpro/habr/upload_files/ce1/a76/a6e/ce1a76a6e8616d25fc3508d3a0a51297.gif)
 
@@ -297,7 +297,7 @@ My favorite is [one](https://towardsdatascience.com/explore-image-augmentations-
 
 It is hard to tell. Right now, I am trying to learn to build a startup. Hence, if I work on open-source, it should have a way to monetize—something like an open-core model, where you have free features for developers and non-free features for the enterprise.
 
-Can I convert Albumentations to OpenCore? Most likely, but I cannot figure out how exactly. Maybe someone who reads this post can message me and give a hint?
+Can I convert Albumentations to [Open-core](https://en.wikipedia.org/wiki/Open-core_model)? Most likely, but I cannot figure out how exactly. Maybe someone who reads this post can message me and give a hint?
 
 It is hard to tell, but I would say - most likely. It was a lot of fun. Every time someone said: "Thanks" to us or just mentioned the library, we got dopamine boosts.
 
@@ -318,7 +318,7 @@ This summer, I visited Kyiv. One night one female Data Scientist and I went out 
 * The library is used in a few large projects:
     * [Open-mmlab](https://github.com/open-mmlab)
     * [Yolo V5](https://github.com/ultralytics/yolov5)
-    * [Pytorch lightning flash](https://github.com/PyTorchLightning/lightning-flash)
+    * [PyTorch lightning flash](https://github.com/PyTorchLightning/lightning-flash)
     * [Imaginairae from Nvidia](https://github.com/NVlabs/imaginaire)
     * [OpenVino training Extensions](https://github.com/openvinotoolkit/training_extensions)
 * In 2021: 
@@ -336,4 +336,4 @@ If you get to this part, I would like to ask for a favor:
 * If you use the library at work, could you please ask your manager to add the company's logo to our website? If yes - you just need to follow this [link](https://github.com/albumentations-team/albumentations/issues/new?assignees=&labels=Company&template=add-a-company-as-a-user-of-albumentations.yaml&title=%5BCompany%5D+%3CPut+a+company+name+here%3E) and fill the form.
 * If you use Albumentations in your scientific projects, it would be great to cite our [paper](https://www.mdpi.com/2078-2489/11/2/125).
 * Pull requests are greatly appreciated if you found a bug or have ideas on improving the library.
-* And of course - if you did not give a star to the [repository](https://www.mdpi.com/2078-2489/11/2/125), it is time to do this :)
+* And of course - if you did not give a star to the [repository](https://github.com/albumentations-team/albumentations), it is time to do this :)
