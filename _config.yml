@@ -117,8 +117,8 @@ analytics:
 
 author:
   name     : "Vladimir Iglovikov"
-  avatar   : "/assets/images/candidate.jpg"
-  bio      : "PhD in Physics. Kaggle Grandmaster."
+  avatar   : "/assets/images/IMG_4140.jpg"
+  bio      : "Co-creator of albumentations.ai, PhD in Physics, Kaggle Grandmaster."
   links:
     - label: "Twitter"
       icon: "fab fa-twitter-square"

@@ -5,6 +5,7 @@ excerpt: "Unified Sports Classification System."
 categories: story
 tags: sport
 header:
+    teaser: https://miro.medium.com/max/1050/1*HQqHUbN7aTWkLp2yvZsHcA.jpeg
     og_image: https://miro.medium.com/max/1050/1*HQqHUbN7aTWkLp2yvZsHcA.jpeg
 
 ---
