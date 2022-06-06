@@ -9,6 +9,8 @@ header:
     og_image: https://miro.medium.com/max/1050/1*HQqHUbN7aTWkLp2yvZsHcA.jpeg
 
 ---
+![](https://miro.medium.com/max/1050/1*HQqHUbN7aTWkLp2yvZsHcA.jpeg)
+
 When I came to the U.S., there were many small things that I needed to get accustomed to.
 
 One of these things was the lack of a unified sports classification system.
