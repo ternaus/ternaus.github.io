@@ -1,0 +1,69 @@
+---
+layout: single
+title:  "Unified Sports Classification System"
+excerpt: "Unified Sports Classification System."
+categories: story
+tags: sport
+header:
+    og_image: https://miro.medium.com/max/1050/1*HQqHUbN7aTWkLp2yvZsHcA.jpeg
+
+---
+When I came to the U.S., there were many small things that I needed to get accustomed to.
+
+One of these things was the lack of a unified sports classification system.
+
+I tried different physical activities from childhood — running, swimming, soccer, rock climbing, weight lifting, and many others.
+
+In all the communities related to each activity, you could hear things like: “Did you hear? Vladimir finally became CMS, and I need a few more years to get there”.
+
+This classification was developed in the Soviet Union a long ago but is so successful that even now, when the Soviet Union is a history, it is still popular in Ukraine, Russia, Kazakhstan, Belarus, and all other former Soviet Union Republics. People in these countries could have quite the opposite political and different views, but you can ask any person from these countries and, for sure, they at least have heard about it.
+
+Requirements for every sport are developed by ministries of sport in various countries or by Federations that do not have government affiliation. A lot of research is put into them and a whole set of PhDs is defended every year on the way :)
+
+There is no such system in other parts of the world, say in the U.S., where I live now.
+
+What is the main idea?
+
+We introduce a set of titles to every sport or physical activity: MSIC, MS, CMS, first/second/third class sportsman. Some sports may also have a junior version of I/II/III grades.
+
+To get the title, you need to complete a set of requirements. They are different for men and women and may also depend on the person’s weight.
+
+![](https://miro.medium.com/max/1050/1*fVMHZWFp69YpR_QcJlliBA.png)
+
+[https://sportscategory.info/](https://sportscategory.info/)
+
+You may also think about it as a way to “compare apples to oranges.” For example, CMS in [swimming](https://sportscategory.info/swimming) Galina put more effort into her training than third-class sportsman Vladimir, a third-class sportsman in [Olympic Weight lifting](https://sportscategory.info/).
+
+There is some gamification element in this as well. In computer games, you collect badges like: “Killed five black dragons,” while in real life, you can collect “was able to satisfy requirements for XXX grade in YYY sport.”
+
+Typically, almost everyone can become a second-class sportsman in every discipline. It could be challenging for higher grades if you do not have proper genetics or do not want to use pharmacology.
+
+I had a discussion about this classification with my English speaking friends so many times that finally, I decided to translate the requirements for:
+
+* [Short/medium distance running](https://sportscategory.info/short_distance_running)
+* [Long-distance running](https://sportscategory.info/long_distance_running)
+* [Powerlifting](https://sportscategory.info/powerlifting)
+* [Benchpress](https://sportscategory.info/bench_press)
+* [Weighted Pull-Ups](https://sportscategory.info/pullups)
+* [Weighted Dips](https://sportscategory.info/dips)
+* [Streetlifting](https://sportscategory.info/streetlifting)
+* [Mountaineering](https://sportscategory.info/mountaneering)
+* [Swimming](https://sportscategory.info/swimming)
+* [Olympic Weightlifting](https://sportscategory.info/olympic_weight_lifting)
+
+You can find them at [https://sportscategory.info/](https://sportscategory.info/)
+
+I want to clarify that satisfying the requirements for a title is not the same as getting the title, and you get the title only in the official competitions.
+
+But for some sports, you can try to satisfy official requirements by yourself without any bureaucracy. You will not have a paper that proves how cool you are, but who cares? Make a video of your records, and it will be more than enough :)
+
+(I do not know how to embed from Instagram, so here is just a link to the video for my [245lb benchpress](https://www.instagram.com/tv/Cbar4OmgXsG/?utm_source=ig_web_copy_link) )
+
+My “badges” :)
+
+* I Class Sportsman in Mountaineering. (I did it 13 years ago)
+* II Class Sportsman in Powerlifting (I can do it now)
+
+* Currently, I am working on becoming a third-class sportsman in Benchpress and weighted pull-ups.
+
+P.S. Could you please write in the comments requirements what sports and physical activities I should add to the [website](https://sportscategory.info/) and, what is more interesting, requirements for what titles and in which sports do can you do?
