@@ -149,7 +149,7 @@ compress_html:
     envs: development  # disable compression in dev environment
 
 
-paginate: 10
+paginate: 20
 
 exclude:
    - .sass-cache/
@@ -163,3 +163,15 @@ exclude:
    - vendor/gems/
    - vendor/ruby/
    - .idea/
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mmistakes"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/mmistakes"
