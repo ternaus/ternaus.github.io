@@ -120,6 +120,9 @@ author:
   avatar   : "/assets/images/IMG_4140.jpg"
   bio      : "Co-creator of albumentations.ai, PhD in Physics, Kaggle Grandmaster."
   links:
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/ternaus/"
     - label: "Twitter"
       icon: "fab fa-twitter-square"
       url: "https://twitter.com/viglovikov"
@@ -135,6 +138,7 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-user-graduate"
       url: "https://scholar.google.com/citations?user=vkjh9X0AAAAJ&hl=en#"
+
 
 category_archive:
   type: liquid
