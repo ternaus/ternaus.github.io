@@ -2,8 +2,8 @@
 layout: single
 title:  "Lurking Fear: El Capitan, trip report"
 excerpt: "How Vladimir Iglovikov and Anton Karnoup climbed El Capitan"
-categories: story, trip_report
-tags: El Capitan, Rock Climbing, Alpine Climbing, Mountaneering, Big Wall Climbing, Aid Climbing
+categories: "Story" "Trip report"
+tags: "El Capitan" "Rock Climbing" "Alpine Climbing" "Mountaneering" "Big Wall Climbing" "Aid Climbing"
 header:
     teaser: https://miro.medium.com/v2/resize:fit:1400/0*46f9q_wEQcQXaHtC
     og_image: https://miro.medium.com/v2/resize:fit:1400/0*46f9q_wEQcQXaHtC
