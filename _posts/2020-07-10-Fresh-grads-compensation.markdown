@@ -66,6 +66,7 @@ The most widely accepted is the one used by Google, Facebook, Lyft, Uber, and ot
 * L6: Staff
 
 #### Q: What about people that have big tech companies as their first industry full-time position? What level will they be considered?
+
 **A**: Fresh grads without a Ph.D. are considered for L3. Fresh grads with a Ph.D. are considered for L4.
 
 #### Q: Is it true that researchers are paid more than engineers?
